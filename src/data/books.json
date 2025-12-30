@@ -2661,7 +2661,8 @@
       "History",
       "Modern"
     ],
-    "description": "The inspiring story of Katherine Johnson, the brilliant NASA mathematician whose calculations helped save the Apollo 13 mission and paved the way for space exploration."
+    "description": "The inspiring story of Katherine Johnson, the brilliant NASA mathematician whose calculations helped save the Apollo 13 mission and paved the way for space exploration.",
+    "coverImage": "/covers/mathical-228.jpg"
   },
   {
     "id": "229",
@@ -2691,7 +2692,8 @@
       "Math",
       "History"
     ],
-    "description": "The inspiring story of Sophie Germain, who overcame every obstacle to become one of the greatest mathematicians of all time, even when women were banned from studying math."
+    "description": "The inspiring story of Sophie Germain, who overcame every obstacle to become one of the greatest mathematicians of all time, even when women were banned from studying math.",
+    "coverImage": "/covers/mathical-230.jpg"
   },
   {
     "id": "231",
@@ -2720,7 +2722,8 @@
       "Funny",
       "Beginner"
     ],
-    "description": "Zero feels like a nobody next to all the other numbers. But when numbers start disappearing, Zero proves that being nothing doesn't mean you're not important!"
+    "description": "Zero feels like a nobody next to all the other numbers. But when numbers start disappearing, Zero proves that being nothing doesn't mean you're not important!",
+    "coverImage": "/covers/mathical-232.jpg"
   },
   {
     "id": "233",
@@ -2748,7 +2751,8 @@
       "Counting",
       "Beginner"
     ],
-    "description": "Ten silly animals try to share one big pair of underwear! A hilarious counting and division story that teaches about sharing and cooperation."
+    "description": "Ten silly animals try to share one big pair of underwear! A hilarious counting and division story that teaches about sharing and cooperation.",
+    "coverImage": "/covers/mathical-234.jpg"
   },
   {
     "id": "235",
@@ -2761,7 +2765,8 @@
       "Funny",
       "Beginner"
     ],
-    "description": "When pigeons invade a park, the counting chaos begins! Addition, subtraction, and lots of silly pigeons make learning math ridiculously fun."
+    "description": "When pigeons invade a park, the counting chaos begins! Addition, subtraction, and lots of silly pigeons make learning math ridiculously fun.",
+    "coverImage": "/covers/mathical-235.jpg"
   },
   {
     "id": "236",
@@ -2777,7 +2782,8 @@
       "History",
       "Modern"
     ],
-    "description": "From counting stars as a child to calculating rocket trajectories for NASA, this is the inspiring story of Katherine Johnson, one of the brilliant women who helped America reach the moon."
+    "description": "From counting stars as a child to calculating rocket trajectories for NASA, this is the inspiring story of Katherine Johnson, one of the brilliant women who helped America reach the moon.",
+    "coverImage": "/covers/mathical-236.jpg"
   },
   {
     "id": "237",
@@ -2793,7 +2799,8 @@
       "History",
       "Modern"
     ],
-    "description": "Raye Montague loved solving problems and learning about machines. She became the first person to design a Navy ship using a computer—revolutionizing shipbuilding!"
+    "description": "Raye Montague loved solving problems and learning about machines. She became the first person to design a Navy ship using a computer—revolutionizing shipbuilding!",
+    "coverImage": "/covers/mathical-237.jpg"
   },
   {
     "id": "238",
@@ -2807,7 +2814,8 @@
       "Science",
       "Nonfiction"
     ],
-    "description": "How many times does a hummingbird's heart beat in a lifetime? Explore fascinating math through amazing animal facts in this beautiful counting book."
+    "description": "How many times does a hummingbird's heart beat in a lifetime? Explore fascinating math through amazing animal facts in this beautiful counting book.",
+    "coverImage": "/covers/mathical-238.jpg"
   },
   {
     "id": "239",
@@ -2820,7 +2828,8 @@
       "Growth Mindset",
       "School"
     ],
-    "description": "Sophie struggles with a math problem and wants to give up. This empowering story teaches kids about persistence, problem-solving, and believing in themselves."
+    "description": "Sophie struggles with a math problem and wants to give up. This empowering story teaches kids about persistence, problem-solving, and believing in themselves.",
+    "coverImage": "/covers/mathical-239.jpg"
   },
   {
     "id": "240",
@@ -2834,7 +2843,8 @@
       "Community",
       "Modern"
     ],
-    "description": "A boy and his grandmother conduct a census of all the dogs in their neighborhood. A gentle story about data collection, community, and the love of dogs."
+    "description": "A boy and his grandmother conduct a census of all the dogs in their neighborhood. A gentle story about data collection, community, and the love of dogs.",
+    "coverImage": "/covers/mathical-240.jpg"
   },
   {
     "id": "241",
@@ -2847,7 +2857,8 @@
       "Measurement",
       "History"
     ],
-    "description": "Before rulers and measuring cups, how did people measure things? Take a journey through history to discover how measurement began and why it matters."
+    "description": "Before rulers and measuring cups, how did people measure things? Take a journey through history to discover how measurement began and why it matters.",
+    "coverImage": "/covers/mathical-241.jpg"
   },
   {
     "id": "242",
@@ -2860,7 +2871,8 @@
       "Science",
       "Diverse"
     ],
-    "description": "Math is everywhere—from the rhythm of music to the patterns in nature! A girl discovers her passion for math and sees how it connects to the world around her."
+    "description": "Math is everywhere—from the rhythm of music to the patterns in nature! A girl discovers her passion for math and sees how it connects to the world around her.",
+    "coverImage": "/covers/mathical-242.jpg"
   },
   {
     "id": "243",
@@ -2874,7 +2886,8 @@
       "Building",
       "Beginner"
     ],
-    "description": "From one brick to billions, watch as workers build amazing structures using math and teamwork. A rhythmic counting book perfect for young builders!"
+    "description": "From one brick to billions, watch as workers build amazing structures using math and teamwork. A rhythmic counting book perfect for young builders!",
+    "coverImage": "/covers/mathical-243.jpg"
   },
   {
     "id": "244",
@@ -2888,7 +2901,8 @@
       "Nature",
       "Birds"
     ],
-    "description": "Ava joins a real-life bird count, learning about different species and the importance of collecting data. Math meets nature in this engaging story."
+    "description": "Ava joins a real-life bird count, learning about different species and the importance of collecting data. Math meets nature in this engaging story.",
+    "coverImage": "/covers/mathical-244.jpg"
   },
   {
     "id": "245",
@@ -2902,7 +2916,8 @@
       "Funny",
       "Beginner"
     ],
-    "description": "Clarissa the sheep tries counting different animals in groups of 2s, 5s, and 10s to help a girl fall asleep. Skip counting has never been so funny!"
+    "description": "Clarissa the sheep tries counting different animals in groups of 2s, 5s, and 10s to help a girl fall asleep. Skip counting has never been so funny!",
+    "coverImage": "/covers/mathical-245.jpg"
   },
   {
     "id": "246",
@@ -2916,7 +2931,8 @@
       "Visual",
       "Beginner"
     ],
-    "description": "Circles, squares, and triangles dance across the page, transforming into new shapes and objects. A playful introduction to geometry for young learners."
+    "description": "Circles, squares, and triangles dance across the page, transforming into new shapes and objects. A playful introduction to geometry for young learners.",
+    "coverImage": "/covers/mathical-246.jpg"
   },
   {
     "id": "247",
@@ -2929,7 +2945,8 @@
       "Funny",
       "Beginner"
     ],
-    "description": "Charlie is trying to sort one thing, but Lola keeps changing the categories! A hilarious introduction to sorting, classifying, and mathematical thinking."
+    "description": "Charlie is trying to sort one thing, but Lola keeps changing the categories! A hilarious introduction to sorting, classifying, and mathematical thinking.",
+    "coverImage": "/covers/mathical-247.jpg"
   },
   {
     "id": "248",
@@ -2942,7 +2959,8 @@
       "Animals",
       "Sorting"
     ],
-    "description": "Marco's stuffed animals won't go to sleep until he organizes them just right. A fun story about sorting, patterns, and problem-solving at bedtime."
+    "description": "Marco's stuffed animals won't go to sleep until he organizes them just right. A fun story about sorting, patterns, and problem-solving at bedtime.",
+    "coverImage": "/covers/mathical-248.jpg"
   },
   {
     "id": "249",
@@ -2971,7 +2989,8 @@
       "Diverse",
       "Patterns"
     ],
-    "description": "A girl shares her love for numbers and shows how math is everywhere—in nature, music, art, and daily life. Math has never been more beautiful!"
+    "description": "A girl shares her love for numbers and shows how math is everywhere—in nature, music, art, and daily life. Math has never been more beautiful!",
+    "coverImage": "/covers/mathical-250.jpg"
   },
   {
     "id": "251",
@@ -3017,7 +3036,8 @@
       "Perspective",
       "Beginner"
     ],
-    "description": "Is 2 elephants a lot? Is 2 grains of sand? A playful exploration of relative size and how numbers mean different things in different contexts."
+    "description": "Is 2 elephants a lot? Is 2 grains of sand? A playful exploration of relative size and how numbers mean different things in different contexts.",
+    "coverImage": "/covers/mathical-253.jpg"
   },
   {
     "id": "254",
@@ -3030,7 +3050,8 @@
       "Nature",
       "Counting"
     ],
-    "description": "Max and his brothers explore the woods, discovering math everywhere they go. Counting, patterns, and shapes come alive in nature!"
+    "description": "Max and his brothers explore the woods, discovering math everywhere they go. Counting, patterns, and shapes come alive in nature!",
+    "coverImage": "/covers/mathical-254.jpg"
   },
   {
     "id": "255",
@@ -3043,7 +3064,8 @@
       "Observation",
       "Patterns"
     ],
-    "description": "A boy observes the world during his bus ride, noticing patterns, numbers, and connections everywhere. A meditation on mathematical thinking."
+    "description": "A boy observes the world during his bus ride, noticing patterns, numbers, and connections everywhere. A meditation on mathematical thinking.",
+    "coverImage": "/covers/mathical-255.jpg"
   },
   {
     "id": "256",
@@ -3057,7 +3079,8 @@
       "Funny",
       "Dragons"
     ],
-    "description": "What happens when 100 dragons all named Broccoli show up for a party? Chaos and hilarious counting fun! A wacky introduction to large numbers."
+    "description": "What happens when 100 dragons all named Broccoli show up for a party? Chaos and hilarious counting fun! A wacky introduction to large numbers.",
+    "coverImage": "/covers/mathical-256.jpg"
   },
   {
     "id": "257",
@@ -3071,7 +3094,8 @@
       "Puzzles",
       "Diverse"
     ],
-    "description": "Li Na and her sister try to recreate a tangram dragon shape. A story about persistence, spatial reasoning, and the ancient Chinese tangram puzzle."
+    "description": "Li Na and her sister try to recreate a tangram dragon shape. A story about persistence, spatial reasoning, and the ancient Chinese tangram puzzle.",
+    "coverImage": "/covers/mathical-257.jpg"
   },
   {
     "id": "258",
@@ -3085,7 +3109,8 @@
       "Diverse",
       "Counting"
     ],
-    "description": "Rafa and his father walk through their neighborhood, counting everything they see. A sweet bilingual story about family, community, and numbers."
+    "description": "Rafa and his father walk through their neighborhood, counting everything they see. A sweet bilingual story about family, community, and numbers.",
+    "coverImage": "/covers/mathical-258.jpg"
   },
   {
     "id": "259",
@@ -3099,7 +3124,8 @@
       "Visual",
       "Art"
     ],
-    "description": "A clever wordless picture book that introduces multiplication through creative visual patterns and groupings. Art meets math in this stunning book!"
+    "description": "A clever wordless picture book that introduces multiplication through creative visual patterns and groupings. Art meets math in this stunning book!",
+    "coverImage": "/covers/mathical-259.jpg"
   },
   {
     "id": "260",
@@ -3113,7 +3139,8 @@
       "Counting",
       "Fractured Fairy Tale"
     ],
-    "description": "The three little pigs become four, then five, then more! Can the wolf keep up with all the math? A hilarious twist on the classic tale."
+    "description": "The three little pigs become four, then five, then more! Can the wolf keep up with all the math? A hilarious twist on the classic tale.",
+    "coverImage": "/covers/mathical-260.jpg"
   },
   {
     "id": "261",
@@ -3127,7 +3154,8 @@
       "Infographics",
       "Visual"
     ],
-    "description": "Uma loves making charts, maps, and diagrams of everything in her house. A celebration of data visualization and creative mathematical thinking!"
+    "description": "Uma loves making charts, maps, and diagrams of everything in her house. A celebration of data visualization and creative mathematical thinking!",
+    "coverImage": "/covers/mathical-261.jpg"
   },
   {
     "id": "262",
@@ -3141,7 +3169,8 @@
       "Poetry",
       "Patterns"
     ],
-    "description": "Explore the mathematical beauty of branching patterns in nature through gorgeous illustrations and poetic text. Trees, rivers, and families all branch!"
+    "description": "Explore the mathematical beauty of branching patterns in nature through gorgeous illustrations and poetic text. Trees, rivers, and families all branch!",
+    "coverImage": "/covers/mathical-262.jpg"
   },
   {
     "id": "263",
@@ -3155,7 +3184,8 @@
       "Unity",
       "Counting"
     ],
-    "description": "One world, made up of many parts. A beautiful counting book that shows how individual pieces come together to make a whole, celebrating diversity and unity."
+    "description": "One world, made up of many parts. A beautiful counting book that shows how individual pieces come together to make a whole, celebrating diversity and unity.",
+    "coverImage": "/covers/mathical-263.jpg"
   },
   {
     "id": "264",
@@ -3169,7 +3199,8 @@
       "Visual",
       "Creative"
     ],
-    "description": "Measure your world in creative ways! From feet to paper clips, this playful book shows kids how to measure anything and make their own rules."
+    "description": "Measure your world in creative ways! From feet to paper clips, this playful book shows kids how to measure anything and make their own rules.",
+    "coverImage": "/covers/mathical-264.jpg"
   },
   {
     "id": "265",
@@ -3183,6 +3214,7 @@
       "Counting",
       "Beginner"
     ],
-    "description": "A unique counting book that focuses on zero and the concept of 'none.' What does it mean when something isn't there? A mind-bending math concept!"
+    "description": "A unique counting book that focuses on zero and the concept of 'none.' What does it mean when something isn't there? A mind-bending math concept!",
+    "coverImage": "/covers/mathical-265.jpg"
   }
 ]
