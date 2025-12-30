@@ -45,7 +45,8 @@
       "Adventure",
       "Chapter Book"
     ],
-    "description": "Jack and Annie discover a magical tree house that takes them back to the time of dinosaurs! The first book in the beloved series that makes history exciting for young readers."
+    "description": "Jack and Annie discover a magical tree house that takes them back to the time of dinosaurs! The first book in the beloved series that makes history exciting for young readers.",
+    "coverImage": "/covers/magic-tree-house-dinosaurs-before-dark.jpg"
   },
   {
     "id": "5",
@@ -143,7 +144,8 @@
       "Classic",
       "Funny"
     ],
-    "description": "Amelia Bedelia takes everything literally! When the Rogers family asks her to 'draw the drapes' or 'dress the chicken,' hilarious mix-ups happen. A beloved classic about a well-meaning housekeeper who always gets things wonderfully wrong."
+    "description": "Amelia Bedelia takes everything literally! When the Rogers family asks her to 'draw the drapes' or 'dress the chicken,' hilarious mix-ups happen. A beloved classic about a well-meaning housekeeper who always gets things wonderfully wrong.",
+    "coverImage": "/covers/amelia-bedelia.jpg"
   },
   {
     "id": "13",
@@ -167,7 +169,8 @@
       "Animals",
       "Classic"
     ],
-    "description": "Henry loves his big dog Mudge, and Mudge loves Henry. Together they have wonderful adventures and face everyday challenges with friendship, humor, and lots of slobbery kisses."
+    "description": "Henry loves his big dog Mudge, and Mudge loves Henry. Together they have wonderful adventures and face everyday challenges with friendship, humor, and lots of slobbery kisses.",
+    "coverImage": "/covers/henry-and-mudge.jpg"
   },
   {
     "id": "15",
@@ -179,7 +182,8 @@
       "Funny",
       "Picture Book"
     ],
-    "description": "Dragons LOVE tacos! They'll eat beef tacos, chicken tacos, and great big crispy tacos. But whatever you do, don't feed them anything with spicy salsa! A laugh-out-loud favorite."
+    "description": "Dragons LOVE tacos! They'll eat beef tacos, chicken tacos, and great big crispy tacos. But whatever you do, don't feed them anything with spicy salsa! A laugh-out-loud favorite.",
+    "coverImage": "/covers/dragons-love-tacos.jpg"
   },
   {
     "id": "16",
@@ -191,7 +195,8 @@
       "School",
       "Picture Book"
     ],
-    "description": "A #1 NEW YORK TIMES BESTSELLER! Featured in its own episode in the Netflix original show Bookmarks: Celebrating Black Voices! National Book Award winner Jacqueline Woodson and two-time Pura Belpré Illustrator Award winner Rafael López have teamed up to create a poignant, yet heartening book about..."
+    "description": "A #1 NEW YORK TIMES BESTSELLER! Featured in its own episode in the Netflix original show Bookmarks: Celebrating Black Voices! National Book Award winner Jacqueline Woodson and two-time Pura Belpré Illustrator Award winner Rafael López have teamed up to create a poignant, yet heartening book about...",
+    "coverImage": "/covers/the-day-you-begin.jpg"
   },
   {
     "id": "17",
@@ -231,7 +236,8 @@
       "Award Winner",
       "City Life"
     ],
-    "description": "Every Sunday, CJ rides the bus across town with his grandma. He wishes he had more, but Nana helps him see the beauty all around them. A beautiful story about gratitude and seeing the world with wonder."
+    "description": "Every Sunday, CJ rides the bus across town with his grandma. He wishes he had more, but Nana helps him see the beauty all around them. A beautiful story about gratitude and seeing the world with wonder.",
+    "coverImage": "/covers/last-stop-on-market-street.jpg"
   },
   {
     "id": "20",
@@ -291,7 +297,8 @@
       "Friendship",
       "Series"
     ],
-    "description": "When seven-year-old Bean plays a mean trick on her sister, she finds unexpected support for her antics from Ivy, the new neighbor, who is less boring than Bean first suspected."
+    "description": "When seven-year-old Bean plays a mean trick on her sister, she finds unexpected support for her antics from Ivy, the new neighbor, who is less boring than Bean first suspected.",
+    "coverImage": "/covers/ivy-bean.jpg"
   },
   {
     "id": "25",
@@ -317,7 +324,8 @@
       "Funny",
       "Picture Book"
     ],
-    "description": "When a bus driver takes a break from his route, a very unlikely volunteer springs up to take his place-a pigeon! But you've never met one like this before. As he pleads, wheedles, and begs his way through the book, children will love being able to answer back and decide his fate. In his hilarious..."
+    "description": "When a bus driver takes a break from his route, a very unlikely volunteer springs up to take his place-a pigeon! But you've never met one like this before. As he pleads, wheedles, and begs his way through the book, children will love being able to answer back and decide his fate. In his hilarious...",
+    "coverImage": "/covers/dont-let-the-pigeon-drive-the.jpg"
   },
   {
     "id": "27",
@@ -329,7 +337,8 @@
       "Bedtime",
       "Classic"
     ],
-    "description": "In a great green room, a little bunny says goodnight to everything around him. This gentle bedtime story has helped millions of children drift off to sleep for over 70 years."
+    "description": "In a great green room, a little bunny says goodnight to everything around him. This gentle bedtime story has helped millions of children drift off to sleep for over 70 years.",
+    "coverImage": "/covers/goodnight-moon.jpg"
   },
   {
     "id": "28",
@@ -353,7 +362,8 @@
       "Funny",
       "Farm"
     ],
-    "description": "Farmer Brown's cows discover a typewriter and start making demands! When they go on strike for electric blankets, it leads to hilarious barnyard negotiations."
+    "description": "Farmer Brown's cows discover a typewriter and start making demands! When they go on strike for electric blankets, it leads to hilarious barnyard negotiations.",
+    "coverImage": "/covers/click-clack-moo-cows-that-type.jpg"
   },
   {
     "id": "30",
@@ -379,7 +389,8 @@
       "Funny",
       "Classic"
     ],
-    "description": "If you give a mouse a cookie, he's going to ask for a glass of milk. And then... one thing leads to another in this circular tale of cause and effect that kids love to predict!"
+    "description": "If you give a mouse a cookie, he's going to ask for a glass of milk. And then... one thing leads to another in this circular tale of cause and effect that kids love to predict!",
+    "coverImage": "/covers/if-you-give-a-mouse-a.jpg"
   },
   {
     "id": "32",
@@ -391,7 +402,8 @@
       "Rhyming",
       "Emotions"
     ],
-    "description": "Llama, Llama red pajama waiting, waiting for his mama. Mama isn't coming yet. Baby Llama starts to fret. In this infectious rhyming read-aloud, Baby Llama turns bedtime into an all-out llama drama! Tucked into bed by his mama, Baby Llama immediately starts worrying when she goes downstairs, and h..."
+    "description": "Llama, Llama red pajama waiting, waiting for his mama. Mama isn't coming yet. Baby Llama starts to fret. In this infectious rhyming read-aloud, Baby Llama turns bedtime into an all-out llama drama! Tucked into bed by his mama, Baby Llama immediately starts worrying when she goes downstairs, and h...",
+    "coverImage": "/covers/llama-llama-red-pajama.jpg"
   },
   {
     "id": "33",
@@ -403,7 +415,8 @@
       "Classic",
       "Friendship"
     ],
-    "description": "A small teddy bear in a department store wants nothing more than a home and a friend. When Lisa discovers him, it's the beginning of a beautiful friendship."
+    "description": "A small teddy bear in a department store wants nothing more than a home and a friend. When Lisa discovers him, it's the beginning of a beautiful friendship.",
+    "coverImage": "/covers/corduroy.jpg"
   },
   {
     "id": "34",
@@ -451,7 +464,8 @@
       "Classic",
       "Rhyming"
     ],
-    "description": "In an old house in Paris covered with vines, lived twelve little girls in two straight lines. The smallest one was Madeline! A brave little girl with a spirit that can't be tamed."
+    "description": "In an old house in Paris covered with vines, lived twelve little girls in two straight lines. The smallest one was Madeline! A brave little girl with a spirit that can't be tamed.",
+    "coverImage": "/covers/madeline.jpg"
   },
   {
     "id": "38",
@@ -463,7 +477,8 @@
       "Classic",
       "Funny"
     ],
-    "description": "Caps for Sale is a timeless classic, in print for over fifty years, and beloved by generations of readers. This easy-to-read story about a peddler and a band of mischievous monkeys is filled with warmth, humor, and simplicity. Children will delight in following the peddlers efforts to outwit the ..."
+    "description": "Caps for Sale is a timeless classic, in print for over fifty years, and beloved by generations of readers. This easy-to-read story about a peddler and a band of mischievous monkeys is filled with warmth, humor, and simplicity. Children will delight in following the peddlers efforts to outwit the ...",
+    "coverImage": "/covers/caps-for-sale.jpg"
   },
   {
     "id": "39",
@@ -499,7 +514,8 @@
       "Classic",
       "Winter"
     ],
-    "description": "Peter wakes up to discover fresh snow! He explores his neighborhood, making snow angels and saving a snowball in his pocket. A timeless story celebrating wonder and discovery."
+    "description": "Peter wakes up to discover fresh snow! He explores his neighborhood, making snow angels and saving a snowball in his pocket. A timeless story celebrating wonder and discovery.",
+    "coverImage": "/covers/the-snowy-day.jpg"
   },
   {
     "id": "42",
@@ -571,7 +587,8 @@
       "Classic",
       "Friendship"
     ],
-    "description": "Join Pooh Bear and his friends Piglet, Eeyore, Tigger, and Christopher Robin for gentle adventures in the Hundred Acre Wood. Honey optional!"
+    "description": "Join Pooh Bear and his friends Piglet, Eeyore, Tigger, and Christopher Robin for gentle adventures in the Hundred Acre Wood. Honey optional!",
+    "coverImage": "/covers/winniethepooh.jpg"
   },
   {
     "id": "48",
@@ -583,7 +600,8 @@
       "Classic",
       "Chapter Book"
     ],
-    "description": "Wilbur the pig and Charlotte the spider form an unlikely friendship. When Wilbur's life is in danger, Charlotte weaves words in her web to save him in this timeless tale of friendship and sacrifice."
+    "description": "Wilbur the pig and Charlotte the spider form an unlikely friendship. When Wilbur's life is in danger, Charlotte weaves words in her web to save him in this timeless tale of friendship and sacrifice.",
+    "coverImage": "/covers/charlottes-web.jpg"
   },
   {
     "id": "49",
@@ -595,7 +613,8 @@
       "Classic",
       "Adventure"
     ],
-    "description": "Stuart Little is a mouse born to a human family in New York City. Despite his small size, he has big adventures and an even bigger heart."
+    "description": "Stuart Little is a mouse born to a human family in New York City. Despite his small size, he has big adventures and an even bigger heart.",
+    "coverImage": "/covers/stuart-little.jpg"
   },
   {
     "id": "50",
@@ -619,7 +638,8 @@
       "Animals",
       "Beginner"
     ],
-    "description": "Woof! Woof! It's time for bed, but Biscuit wants to have a snack, and play, and hear stories. Will he ever go to sleep?"
+    "description": "Woof! Woof! It's time for bed, but Biscuit wants to have a snack, and play, and hear stories. Will he ever go to sleep?",
+    "coverImage": "/covers/biscuit.jpg"
   },
   {
     "id": "52",
@@ -631,7 +651,8 @@
       "Classic",
       "Animals"
     ],
-    "description": "A collection of three Little Bear books."
+    "description": "A collection of three Little Bear books.",
+    "coverImage": "/covers/little-bear.jpg"
   },
   {
     "id": "53",
@@ -655,7 +676,8 @@
       "Adventure",
       "Classic"
     ],
-    "description": "After a bulletin board falls on Stanley Lambchop, he's only half an inch thick! Being flat has advantages though - like being mailed to California for vacation!"
+    "description": "After a bulletin board falls on Stanley Lambchop, he's only half an inch thick! Being flat has advantages though - like being mailed to California for vacation!",
+    "coverImage": "/covers/flat-stanley.jpg"
   },
   {
     "id": "55",
@@ -667,7 +689,8 @@
       "Emotions",
       "School"
     ],
-    "description": "Chester Raccoon doesn't want to go to kindergarten. His mother shares a family secret called the Kissing Hand to comfort him. Perfect for first-day-of-school jitters!"
+    "description": "Chester Raccoon doesn't want to go to kindergarten. His mother shares a family secret called the Kissing Hand to comfort him. Perfect for first-day-of-school jitters!",
+    "coverImage": "/covers/the-kissing-hand.jpg"
   },
   {
     "id": "56",
@@ -691,7 +714,8 @@
       "Classic",
       "Dinosaurs"
     ],
-    "description": "Danny loves dinosaurs. When he sees one at the museun and says, \"It would be nice to play with a dinosaur,\" a voice answers, \"And I think it would be nice to play with you.\" So begins Dannys and the dinosaur's wonderful adventure together! But a dinosaur is no ordinary playmate. Even the most eve..."
+    "description": "Danny loves dinosaurs. When he sees one at the museun and says, \"It would be nice to play with a dinosaur,\" a voice answers, \"And I think it would be nice to play with you.\" So begins Dannys and the dinosaur's wonderful adventure together! But a dinosaur is no ordinary playmate. Even the most eve...",
+    "coverImage": "/covers/danny-and-the-dinosaur.jpg"
   },
   {
     "id": "58",
@@ -751,7 +775,8 @@
       "Friendship",
       "Classic"
     ],
-    "description": "Rainbow Fish has beautiful, shimmering scales but no friends. He learns that sharing his most prized possessions can bring the greatest happiness."
+    "description": "Rainbow Fish has beautiful, shimmering scales but no friends. He learns that sharing his most prized possessions can bring the greatest happiness.",
+    "coverImage": "/covers/rainbow-fish.jpg"
   },
   {
     "id": "63",
@@ -815,7 +840,8 @@
       "Funny",
       "Animals"
     ],
-    "description": "One of the funniest winners of the Caldecott Medal, this story of unlikely friends getting over a misunderstanding is a sure-fire crowd-pleaser. Officer Buckle knows more about safety than anyone in the town of Napville. But whenever he tries to share his safety tips, nobody listens. Until, that ..."
+    "description": "One of the funniest winners of the Caldecott Medal, this story of unlikely friends getting over a misunderstanding is a sure-fire crowd-pleaser. Officer Buckle knows more about safety than anyone in the town of Napville. But whenever he tries to share his safety tips, nobody listens. Until, that ...",
+    "coverImage": "/covers/officer-buckle-and-gloria.jpg"
   },
   {
     "id": "68",
@@ -827,7 +853,8 @@
       "Animals",
       "Friendship"
     ],
-    "description": "A baby bat is raised like a bird until reunited with its mother."
+    "description": "A baby bat is raised like a bird until reunited with its mother.",
+    "coverImage": "/covers/stellaluna.jpg"
   },
   {
     "id": "69",
@@ -851,7 +878,8 @@
       "School",
       "Funny"
     ],
-    "description": "The kids in Room 207 take advantage of their teacher's good nature until she disappears and they are faced with a substitute."
+    "description": "The kids in Room 207 take advantage of their teacher's good nature until she disappears and they are faced with a substitute.",
+    "coverImage": "/covers/miss-nelson-is-missing.jpg"
   },
   {
     "id": "71",
@@ -863,7 +891,8 @@
       "Winter",
       "Animals"
     ],
-    "description": "In this bestselling modern classic, a young boy’s lost mitten leads to a charming snowy adventure. Jan Brett’s beautiful retelling is a family favorite and the board book edition is the perfect gift for the youngest readers. When Nicki drops his white mitten in the snow, he goes on without realiz..."
+    "description": "In this bestselling modern classic, a young boy’s lost mitten leads to a charming snowy adventure. Jan Brett’s beautiful retelling is a family favorite and the board book edition is the perfect gift for the youngest readers. When Nicki drops his white mitten in the snow, he goes on without realiz...",
+    "coverImage": "/covers/the-mitten.jpg"
   },
   {
     "id": "72",
@@ -875,7 +904,8 @@
       "School",
       "Emotions"
     ],
-    "description": "Lilly loves everything about school, especially her cool teacher, Mr. Slinger. But when Lilly brings her purple plastic purse and its treasures to school and can't wait until sharing time, Mr. Slinger confiscates her prized possessions. Lilly's fury leads to revenge and then to remorse and she se..."
+    "description": "Lilly loves everything about school, especially her cool teacher, Mr. Slinger. But when Lilly brings her purple plastic purse and its treasures to school and can't wait until sharing time, Mr. Slinger confiscates her prized possessions. Lilly's fury leads to revenge and then to remorse and she se...",
+    "coverImage": "/covers/lillys-purple-plastic-purse.jpg"
   },
   {
     "id": "73",
@@ -937,7 +967,8 @@
       "Classic",
       "Fantasy"
     ],
-    "description": "The amazing bone: On her way home from school, Pearl finds an unusual bone that has unexpected powers."
+    "description": "The amazing bone: On her way home from school, Pearl finds an unusual bone that has unexpected powers.",
+    "coverImage": "/covers/sylvester-and-the-magic-pebble.jpg"
   },
   {
     "id": "78",
@@ -961,7 +992,8 @@
       "Classic",
       "Animals"
     ],
-    "description": "Swimmy, a small black fish, finds a way to protect a school of small red fish from their natural enemies."
+    "description": "Swimmy, a small black fish, finds a way to protect a school of small red fish from their natural enemies.",
+    "coverImage": "/covers/swimmy.jpg"
   },
   {
     "id": "80",
@@ -985,7 +1017,8 @@
       "Rhyming",
       "Classic"
     ],
-    "description": "Each month is gay, each season nice, when eating chicken soup with rice./DIV"
+    "description": "Each month is gay, each season nice, when eating chicken soup with rice./DIV",
+    "coverImage": "/covers/chicken-soup-with-rice.jpg"
   },
   {
     "id": "82",
@@ -997,7 +1030,8 @@
       "Friendship",
       "Classic"
     ],
-    "description": "Little Bear and his friends are on hand to welcome Father Bear home from his fishing trip. 'Little Bear has endeared himself as a character with irresistible, child-like charm.' -- H."
+    "description": "Little Bear and his friends are on hand to welcome Father Bear home from his fishing trip. 'Little Bear has endeared himself as a character with irresistible, child-like charm.' -- H.",
+    "coverImage": "/covers/a-bargain-for-frances.jpg"
   },
   {
     "id": "83",
@@ -1009,7 +1043,8 @@
       "Emotions",
       "Animals"
     ],
-    "description": "1.You'll need a friend to play this game. 2. Cut out the target and hang it on a wall. 3. Ready, aim, fire! Launch your sticky spider at the target. 4. Take turns and keep track of your points. The first player to reach 150 points wins."
+    "description": "1.You'll need a friend to play this game. 2. Cut out the target and hang it on a wall. 3. Ready, aim, fire! Launch your sticky spider at the target. 4. Take turns and keep track of your points. The first player to reach 150 points wins.",
+    "coverImage": "/covers/leo-the-late-bloomer.jpg"
   },
   {
     "id": "84",
@@ -1021,7 +1056,8 @@
       "Classic",
       "Inspiring"
     ],
-    "description": "A little blue engine agrees to pull a heavy train over a steep mountain when bigger engines refuse. 'I think I can, I think I can' becomes a mantra of determination!"
+    "description": "A little blue engine agrees to pull a heavy train over a steep mountain when bigger engines refuse. 'I think I can, I think I can' becomes a mantra of determination!",
+    "coverImage": "/covers/the-little-engine-that-could.jpg"
   },
   {
     "id": "85",
@@ -1045,7 +1081,8 @@
       "Family",
       "Award Winner"
     ],
-    "description": "After a fire destroys their home and possessions, Rosa, her mother, and grandmother save and save until they can afford to buy one big, comfortable chair that all three of them can enjoy.After their home is destroyed by a fire, Rosa, her mother and grandmother save their coins to buy a really com..."
+    "description": "After a fire destroys their home and possessions, Rosa, her mother, and grandmother save and save until they can afford to buy one big, comfortable chair that all three of them can enjoy.After their home is destroyed by a fire, Rosa, her mother and grandmother save their coins to buy a really com...",
+    "coverImage": "/covers/a-chair-for-my-mother.jpg"
   },
   {
     "id": "87",
@@ -1057,7 +1094,8 @@
       "Rhyming",
       "Classic"
     ],
-    "description": "Choose kindness with Horton the elephant and the Whos of Who-ville in Dr. Seuss's classic picture book about caring for others that makes it a perfect gift! A person's a person, no matter how small. Everyone's favorite elephant stars in this heartwarming and timeless story for readers of all ages..."
+    "description": "Choose kindness with Horton the elephant and the Whos of Who-ville in Dr. Seuss's classic picture book about caring for others that makes it a perfect gift! A person's a person, no matter how small. Everyone's favorite elephant stars in this heartwarming and timeless story for readers of all ages...",
+    "coverImage": "/covers/horton-hears-a-who.jpg"
   },
   {
     "id": "88",
@@ -1081,7 +1119,8 @@
       "Classic",
       "Animals"
     ],
-    "description": "CALDECOTT HONOR BOOK • NATIONAL BESTSELLER • Adored by generations of readers, this gorgeously illustrated classic tells a tale of youth, curiosity, and delight as a little girl and her mother make unexpected friends while picking blueberries in the Maine countryside. “All the color and flavor of..."
+    "description": "CALDECOTT HONOR BOOK • NATIONAL BESTSELLER • Adored by generations of readers, this gorgeously illustrated classic tells a tale of youth, curiosity, and delight as a little girl and her mother make unexpected friends while picking blueberries in the Maine countryside. “All the color and flavor of...",
+    "coverImage": "/covers/blueberries-for-sal.jpg"
   },
   {
     "id": "90",
@@ -1129,7 +1168,8 @@
       "Classic",
       "Food"
     ],
-    "description": "Frances, one of children's best-loved characters for over 30 years, now springs to life even more in Bread and Jam for Frances,beautifully reillustrated in sparkling full color by Lillian Hoban. In this memorable story, Frances decides that bread and jam are all she wants to eat, and her understa..."
+    "description": "Frances, one of children's best-loved characters for over 30 years, now springs to life even more in Bread and Jam for Frances,beautifully reillustrated in sparkling full color by Lillian Hoban. In this memorable story, Frances decides that bread and jam are all she wants to eat, and her understa...",
+    "coverImage": "/covers/bread-and-jam-for-frances.jpg"
   },
   {
     "id": "94",
@@ -1153,7 +1193,8 @@
       "Funny",
       "Animals"
     ],
-    "description": "Tacky is an odd bird but definitely good to have around the iceberg."
+    "description": "Tacky is an odd bird but definitely good to have around the iceberg.",
+    "coverImage": "/covers/tacky-the-penguin.jpg"
   },
   {
     "id": "96",
@@ -1165,7 +1206,8 @@
       "Emotions",
       "Family"
     ],
-    "description": "Owen had a fuzzy yellow blanket. \"Fuzzy goes where I go,\" said Owen. But Mrs. Tweezers disagreed. She thought Owen was too old for a blanket. Owen disagreed. No matter what Mrs. Tweezers came up with, Blanket Fairies or vinegar, Owen had the answer. But when school started, Owen't mother knew jus..."
+    "description": "Owen had a fuzzy yellow blanket. \"Fuzzy goes where I go,\" said Owen. But Mrs. Tweezers disagreed. She thought Owen was too old for a blanket. Owen disagreed. No matter what Mrs. Tweezers came up with, Blanket Fairies or vinegar, Owen had the answer. But when school started, Owen't mother knew jus...",
+    "coverImage": "/covers/owen.jpg"
   },
   {
     "id": "97",
@@ -1177,7 +1219,8 @@
       "Classic",
       "City Life"
     ],
-    "description": "A country house is unhappy when the city, with all its buildings and traffic, grows up around her."
+    "description": "A country house is unhappy when the city, with all its buildings and traffic, grows up around her.",
+    "coverImage": "/covers/the-little-house.jpg"
   },
   {
     "id": "98",
@@ -1189,7 +1232,8 @@
       "Classic",
       "Inspiring"
     ],
-    "description": "Alice made a promise to make the world a more beautiful place, then a seed of an idea is planted and blossoms into a beautiful plan. This beloved classic and celebration of nature—written by a beloved Caldecott winner—is lovelier than ever! Barbara Cooney's story of Alice Rumphius, who longed to ..."
+    "description": "Alice made a promise to make the world a more beautiful place, then a seed of an idea is planted and blossoms into a beautiful plan. This beloved classic and celebration of nature—written by a beloved Caldecott winner—is lovelier than ever! Barbara Cooney's story of Alice Rumphius, who longed to ...",
+    "coverImage": "/covers/miss-rumphius.jpg"
   },
   {
     "id": "99",
@@ -1201,7 +1245,8 @@
       "Funny",
       "Bedtime"
     ],
-    "description": "A cozy bed, a snoring granny, a dreaming child, a dozing dog, a snoozing--WAIT! There's a surprise in store, and little ones will want to discover it over and over again. So pull on your sleeping cap and snuggle in for a timeless cumulative tale that's truly like no other. Don and Audrey Wood's b..."
+    "description": "A cozy bed, a snoring granny, a dreaming child, a dozing dog, a snoozing--WAIT! There's a surprise in store, and little ones will want to discover it over and over again. So pull on your sleeping cap and snuggle in for a timeless cumulative tale that's truly like no other. Don and Audrey Wood's b...",
+    "coverImage": "/covers/the-napping-house.jpg"
   },
   {
     "id": "100",
@@ -1291,7 +1336,8 @@
       "Sci-Fi",
       "Modern"
     ],
-    "description": "\"An action-packed page turner with heart!\"—Dav Pilkey, author of DOG MAN Take off on an action packed adventure with HILO Book 3! Dog Man meets Big Nate in this hilarious New York Times bestselling graphic novel series that kids love! Aah!!!! Everyone's favorite space boy is BACK! Hilo may look l..."
+    "description": "\"An action-packed page turner with heart!\"—Dav Pilkey, author of DOG MAN Take off on an action packed adventure with HILO Book 3! Dog Man meets Big Nate in this hilarious New York Times bestselling graphic novel series that kids love! Aah!!!! Everyone's favorite space boy is BACK! Hilo may look l...",
+    "coverImage": "/covers/hilo-the-boy-who-crashed-to.jpg"
   },
   {
     "id": "107",
@@ -1304,7 +1350,8 @@
       "School",
       "Modern"
     ],
-    "description": "\"The Storyteller Queen lives, and her name is E. K. Johnston.\" -- Rachel Hartman, New York Times best-selling author of Seraphina The follow-up to A Thousand Nights, Spindle is the feminist retelling of Sleeping Beauty where the princess saves herself and owns the narrative. The prison is crumbli..."
+    "description": "\"The Storyteller Queen lives, and her name is E. K. Johnston.\" -- Rachel Hartman, New York Times best-selling author of Seraphina The follow-up to A Thousand Nights, Spindle is the feminist retelling of Sleeping Beauty where the princess saves herself and owns the narrative. The prison is crumbli...",
+    "coverImage": "/covers/we-dont-eat-our-classmates.jpg"
   },
   {
     "id": "108",
@@ -1317,7 +1364,8 @@
       "Art",
       "Diverse"
     ],
-    "description": "The ultimate kids' book about dogs, being good, being bad, and being yourself! From the award-winning, critically acclaimed author of Petra. Meet Buzz the dog. He's such a good boy. Buzz seems to have a perfect life .. . and a lot of very well-behaved friends. Buzz would never dream of being anyt..."
+    "description": "The ultimate kids' book about dogs, being good, being bad, and being yourself! From the award-winning, critically acclaimed author of Petra. Meet Buzz the dog. He's such a good boy. Buzz seems to have a perfect life .. . and a lot of very well-behaved friends. Buzz would never dream of being anyt...",
+    "coverImage": "/covers/isamu-noguchi.jpg"
   },
   {
     "id": "109",
@@ -1330,7 +1378,8 @@
       "Diverse",
       "Modern"
     ],
-    "description": "In an exuberant picture book, a glimpse of costumed mermaids leaves one boy flooded with wonder and ready to dazzle the world. While riding the subway home from the pool with his abuela one day, Julián notices three women spectacularly dressed up. Their hair billows in brilliant hues, their dress..."
+    "description": "In an exuberant picture book, a glimpse of costumed mermaids leaves one boy flooded with wonder and ready to dazzle the world. While riding the subway home from the pool with his abuela one day, Julián notices three women spectacularly dressed up. Their hair billows in brilliant hues, their dress...",
+    "coverImage": "/covers/julian-is-a-mermaid.jpg"
   },
   {
     "id": "110",
@@ -1342,7 +1391,8 @@
       "Science",
       "Modern"
     ],
-    "description": "\"The story of Daniel Ellsberg and his decision to steal and publish secret documents about America's involvement in the Vietnam War\"--"
+    "description": "\"The story of Daniel Ellsberg and his decision to steal and publish secret documents about America's involvement in the Vietnam War\"--",
+    "coverImage": "/covers/hey-water.jpg"
   },
   {
     "id": "111",
@@ -1407,7 +1457,8 @@
       "Diverse",
       "Modern"
     ],
-    "description": "This fun role-reversal picture book will help reluctant students get excited to go back to school! It's just another school morning...until Mom, Dad, Grandma, and even Bow-wow the dog BEG the kids to let them come to school, too! Dad can tie his own shoes--why can't he come? Mom is all ready with..."
+    "description": "This fun role-reversal picture book will help reluctant students get excited to go back to school! It's just another school morning...until Mom, Dad, Grandma, and even Bow-wow the dog BEG the kids to let them come to school, too! Dad can tie his own shoes--why can't he come? Mom is all ready with...",
+    "coverImage": "/covers/dragons-in-a-bag.jpg"
   },
   {
     "id": "116",
@@ -1444,7 +1495,8 @@
       "Emotions",
       "Modern"
     ],
-    "description": "In a forest filled with treacherous beasts, the thing to be most afraid of is closer than you think in this middle grade horror fantasy. Kestrel, a young huntress, lives in a seemingly endless forest crawling with dangerous beasts. But the most dangerous beasts of all are the Grabbers--beings tha..."
+    "description": "In a forest filled with treacherous beasts, the thing to be most afraid of is closer than you think in this middle grade horror fantasy. Kestrel, a young huntress, lives in a seemingly endless forest crawling with dangerous beasts. But the most dangerous beasts of all are the Grabbers--beings tha...",
+    "coverImage": "/covers/the-rabbit-listened.jpg"
   },
   {
     "id": "119",
@@ -1457,7 +1509,8 @@
       "Inspiring",
       "Modern"
     ],
-    "description": "In the third book in the Mitford Murders series, lady's maid Louisa Cannon accompanies Diana Mitford into a turbulent late 1920s Europe. The year is 1928, and after the death of a maid at a glamorous society party, fortune heir Bryan Guinness seizes life and proposes to eighteen-year-old Diana, m..."
+    "description": "In the third book in the Mitford Murders series, lady's maid Louisa Cannon accompanies Diana Mitford into a turbulent late 1920s Europe. The year is 1928, and after the death of a maid at a glamorous society party, fortune heir Bryan Guinness seizes life and proposes to eighteen-year-old Diana, m...",
+    "coverImage": "/covers/a-is-for-awesome-23-iconic.jpg"
   },
   {
     "id": "120",
@@ -1546,7 +1599,8 @@
       "Diverse",
       "Award Winner"
     ],
-    "description": "A New York Times Bestseller and tie-in to Academy-Award Winning Short Film \"Hair Love\" \"I love that Hair Love is highlighting the relationship between a Black father and daughter. Matthew leads the ranks of new creatives who are telling unique stories of the Black experience. We need this.\" - Jor..."
+    "description": "A New York Times Bestseller and tie-in to Academy-Award Winning Short Film \"Hair Love\" \"I love that Hair Love is highlighting the relationship between a Black father and daughter. Matthew leads the ranks of new creatives who are telling unique stories of the Black experience. We need this.\" - Jor...",
+    "coverImage": "/covers/hair-love.jpg"
   },
   {
     "id": "127",
@@ -1559,7 +1613,8 @@
       "Diverse",
       "Modern"
     ],
-    "description": "Now in paperback, the first book--an instant bestseller--in the sumptuous, sultry, and romantic YA vampire series from New York Times bestselling author Renee Ahdieh. In 1872, New Orleans is a city ruled by the dead. But to seventeen-year-old Celine Rousseau, New Orleans is a safe haven after she..."
+    "description": "Now in paperback, the first book--an instant bestseller--in the sumptuous, sultry, and romantic YA vampire series from New York Times bestselling author Renee Ahdieh. In 1872, New Orleans is a city ruled by the dead. But to seventeen-year-old Celine Rousseau, New Orleans is a safe haven after she...",
+    "coverImage": "/covers/all-are-welcome.jpg"
   },
   {
     "id": "128",
@@ -1609,7 +1664,8 @@
       "Emotions",
       "Modern"
     ],
-    "description": "\"A beautiful tribute to every queer kid who's ever had to leave their home in order to find one.\" - Leah Johnson, bestselling author of You Should See Me in a Crown The author of The Gravity of Us crafts another heartfelt coming-of-age story about finding the people who become your home--perfect ..."
+    "description": "\"A beautiful tribute to every queer kid who's ever had to leave their home in order to find one.\" - Leah Johnson, bestselling author of You Should See Me in a Crown The author of The Gravity of Us crafts another heartfelt coming-of-age story about finding the people who become your home--perfect ...",
+    "coverImage": "/covers/perfectly-norman.jpg"
   },
   {
     "id": "132",
@@ -1658,7 +1714,8 @@
       "Diverse",
       "Modern"
     ],
-    "description": "A young mathematical genius from India searches for the secrets hidden inside numbers — and for someone who understands him — in this gorgeous picture-book biography. A mango . . . is just one thing. But if I chop it in two, then chop the half in two, and keep on chopping, I get more and more bit..."
+    "description": "A young mathematical genius from India searches for the secrets hidden inside numbers — and for someone who understands him — in this gorgeous picture-book biography. A mango . . . is just one thing. But if I chop it in two, then chop the half in two, and keep on chopping, I get more and more bit...",
+    "coverImage": "/covers/jabari-jumps.jpg"
   },
   {
     "id": "137",
@@ -1670,7 +1727,8 @@
       "School",
       "Diverse"
     ],
-    "description": "A heartwarming story about the new girl in school, and how she learns to appreciate her Korean name. Being the new kid in school is hard enough, but what happens when nobody can pronounce your name? Having just moved from Korea, Unhei is anxious about fitting in. So instead of introducing herself..."
+    "description": "A heartwarming story about the new girl in school, and how she learns to appreciate her Korean name. Being the new kid in school is hard enough, but what happens when nobody can pronounce your name? Having just moved from Korea, Unhei is anxious about fitting in. So instead of introducing herself...",
+    "coverImage": "/covers/the-name-jar.jpg"
   },
   {
     "id": "138",
@@ -1746,7 +1804,8 @@
       "Diverse",
       "Modern"
     ],
-    "description": "Friendship--and trains!--take center stage in this gentle, inviting story about paying attention to other people's feelings. Two boys' fun train-track-building project takes a turn when one of the boys obliviously insists on only doing things his way. Their disagreement spells disaster for the tr..."
+    "description": "Friendship--and trains!--take center stage in this gentle, inviting story about paying attention to other people's feelings. Two boys' fun train-track-building project takes a turn when one of the boys obliviously insists on only doing things his way. Their disagreement spells disaster for the tr...",
+    "coverImage": "/covers/stand-up-yumi-chung.jpg"
   },
   {
     "id": "144",
@@ -1798,7 +1857,8 @@
       "Diverse",
       "Modern"
     ],
-    "description": "A New York Times bestseller! Featured in its own episode in the Netflix original show Bookmarks: Celebrating Black Voices! Recipient of a Coretta Scott King Illustrator Honor Award Recipient of an NAACP Image Award for Outstanding Children’s Literary Work From Academy Award–winning actress Lupita..."
+    "description": "A New York Times bestseller! Featured in its own episode in the Netflix original show Bookmarks: Celebrating Black Voices! Recipient of a Coretta Scott King Illustrator Honor Award Recipient of an NAACP Image Award for Outstanding Children’s Literary Work From Academy Award–winning actress Lupita...",
+    "coverImage": "/covers/sulwe.jpg"
   },
   {
     "id": "148",
@@ -1811,7 +1871,8 @@
       "Diverse",
       "Award Winner"
     ],
-    "description": "We are resilience. We are hope. We are dreamers. Yuyi Morales brought her hopes, her passion, her strength, and her stories with her, when she came to the United States in 1994 with her infant son. She left behind nearly everything she owned, but she didn't come empty-handed. From the author-illu..."
+    "description": "We are resilience. We are hope. We are dreamers. Yuyi Morales brought her hopes, her passion, her strength, and her stories with her, when she came to the United States in 1994 with her infant son. She left behind nearly everything she owned, but she didn't come empty-handed. From the author-illu...",
+    "coverImage": "/covers/dreamers.jpg"
   },
   {
     "id": "149",
@@ -1836,7 +1897,8 @@
       "Funny",
       "Adventure"
     ],
-    "description": "A 2015 Caldecott Honor Book With perfect pacing, the multi-award-winning, New York Times best-selling team of Mac Barnett and Jon Klassen dig down for a deadpan tale full of visual humor. Sam and Dave are on a mission. A mission to find something spectacular. So they dig a hole. And they keep dig..."
+    "description": "A 2015 Caldecott Honor Book With perfect pacing, the multi-award-winning, New York Times best-selling team of Mac Barnett and Jon Klassen dig down for a deadpan tale full of visual humor. Sam and Dave are on a mission. A mission to find something spectacular. So they dig a hole. And they keep dig...",
+    "coverImage": "/covers/sam-and-dave-dig-a-hole.jpg"
   },
   {
     "id": "151",
@@ -1861,7 +1923,8 @@
       "Animals",
       "Award Winner"
     ],
-    "description": "When a wolf cub and little girl are lost in a snowstorm they must find their way home."
+    "description": "When a wolf cub and little girl are lost in a snowstorm they must find their way home.",
+    "coverImage": "/covers/wolf-in-the-snow.jpg"
   },
   {
     "id": "153",
@@ -1873,7 +1936,8 @@
       "Funny",
       "Art"
     ],
-    "description": "The hilarious, colorful #1 New York Times bestselling phenomenon that every kid wants! Gift a copy to someone you love today. Poor Duncan just wants to color. But when he opens his box of crayons, he finds only letters, all saying the same thing: His crayons have had enough! They quit! Blue crayo..."
+    "description": "The hilarious, colorful #1 New York Times bestselling phenomenon that every kid wants! Gift a copy to someone you love today. Poor Duncan just wants to color. But when he opens his box of crayons, he finds only letters, all saying the same thing: His crayons have had enough! They quit! Blue crayo...",
+    "coverImage": "/covers/the-day-the-crayons-quit.jpg"
   },
   {
     "id": "154",
@@ -1885,7 +1949,8 @@
       "Funny",
       "Art"
     ],
-    "description": "The companion to the #1 New York Times bestseller and blockbuster hit, The Day the Crayons Quit! A Wall Street Journal Best Children's Book of 2015 A TIME Magazine Top 10 Children's Book of 2015 “Highly anticipated (yes, even for adults)” —Entertainment Weekly I'm not sure what it is about this k..."
+    "description": "The companion to the #1 New York Times bestseller and blockbuster hit, The Day the Crayons Quit! A Wall Street Journal Best Children's Book of 2015 A TIME Magazine Top 10 Children's Book of 2015 “Highly anticipated (yes, even for adults)” —Entertainment Weekly I'm not sure what it is about this k...",
+    "coverImage": "/covers/the-day-the-crayons-came-home.jpg"
   },
   {
     "id": "155",
@@ -1897,7 +1962,8 @@
       "Funny",
       "Interactive"
     ],
-    "description": "A #1 New York Times bestseller, this innovative and wildly funny read-aloud by award-winning humorist/actor B.J. Novak will turn any reader into a comedian—a perfect gift for any special occasion! You might think a book with no pictures seems boring and serious. Except . . . here’s how books work..."
+    "description": "A #1 New York Times bestseller, this innovative and wildly funny read-aloud by award-winning humorist/actor B.J. Novak will turn any reader into a comedian—a perfect gift for any special occasion! You might think a book with no pictures seems boring and serious. Except . . . here’s how books work...",
+    "coverImage": "/covers/the-book-with-no-pictures.jpg"
   },
   {
     "id": "156",
@@ -1909,7 +1975,8 @@
       "Animals",
       "Friendship"
     ],
-    "description": "Bear, with the help of his animal friends, remembers the story he had hoped to tell before the onset of winter. Full color."
+    "description": "Bear, with the help of his animal friends, remembers the story he had hoped to tell before the onset of winter. Full color.",
+    "coverImage": "/covers/bear-has-a-story-to-tell.jpg"
   },
   {
     "id": "157",
@@ -1921,7 +1988,8 @@
       "Animals",
       "Award Winner"
     ],
-    "description": "Zookeeper Amos McGee always makes time to visit his friends who live at the zoo until the day he stays home because he is sick."
+    "description": "Zookeeper Amos McGee always makes time to visit his friends who live at the zoo until the day he stays home because he is sick.",
+    "coverImage": "/covers/a-sick-day-for-amos-mcgee.jpg"
   },
   {
     "id": "158",
@@ -1933,7 +2001,8 @@
       "Funny",
       "Award Winner"
     ],
-    "description": "A little fish thinks he can get away with stealing a hat."
+    "description": "A little fish thinks he can get away with stealing a hat.",
+    "coverImage": "/covers/this-is-not-my-hat.jpg"
   },
   {
     "id": "159",
@@ -1945,7 +2014,8 @@
       "Funny",
       "Animals"
     ],
-    "description": "A bear almost gives up his search for his missing hat until he remembers something important, in a cumulative tale with a mischievous twist."
+    "description": "A bear almost gives up his search for his missing hat until he remembers something important, in a cumulative tale with a mischievous twist.",
+    "coverImage": "/covers/i-want-my-hat-back.jpg"
   },
   {
     "id": "160",
@@ -1957,7 +2027,8 @@
       "Funny",
       "Bedtime"
     ],
-    "description": "Little Red Chicken wants Papa to read her a bedtime story, but interrupts him almost as soon as he begins each tale."
+    "description": "Little Red Chicken wants Papa to read her a bedtime story, but interrupts him almost as soon as he begins each tale.",
+    "coverImage": "/covers/interrupting-chicken.jpg"
   },
   {
     "id": "161",
@@ -1981,7 +2052,8 @@
       "Animals",
       "Fantasy"
     ],
-    "description": "National Book Award winner William Alexander conjures up a spooky adventure full of excitement in this entertaining sequel to A Properly Unhaunted Place, which was a New York Times Editors’ Choice. Rosa Diaz has her hands full of ghosts. She saved the town of Ingot by unleashing all the ghosts wh..."
+    "description": "National Book Award winner William Alexander conjures up a spooky adventure full of excitement in this entertaining sequel to A Properly Unhaunted Place, which was a New York Times Editors’ Choice. Rosa Diaz has her hands full of ghosts. She saved the town of Ingot by unleashing all the ghosts wh...",
+    "coverImage": "/covers/not-quite-narwhal.jpg"
   },
   {
     "id": "163",
@@ -2005,7 +2077,8 @@
       "Rhyming",
       "Animals"
     ],
-    "description": "A small blue truck finds his way out of a jam, with a little help from his friends."
+    "description": "A small blue truck finds his way out of a jam, with a little help from his friends.",
+    "coverImage": "/covers/little-blue-truck.jpg"
   },
   {
     "id": "165",
@@ -2029,7 +2102,8 @@
       "Funny",
       "Classic"
     ],
-    "description": "A young boy is depicted doing a variety of naughty things for which he is repeatedly admonished, but finally he gets a hug."
+    "description": "A young boy is depicted doing a variety of naughty things for which he is repeatedly admonished, but finally he gets a hug.",
+    "coverImage": "/covers/no-david.jpg"
   },
   {
     "id": "167",
@@ -2065,7 +2139,8 @@
       "Emotions",
       "Rhyming"
     ],
-    "description": "Yucky music, great big feet. Ladies smelling way too sweet. Look at knees and stand in line. Llama Llama starts to whine. Does any child like to go shopping? Not Llama Llama! But Mama can’t leave Llama at home, so off they go to Shop-O-Rama. Lots of aisles. Long lines. Mama is too busy to notice ..."
+    "description": "Yucky music, great big feet. Ladies smelling way too sweet. Look at knees and stand in line. Llama Llama starts to whine. Does any child like to go shopping? Not Llama Llama! But Mama can’t leave Llama at home, so off they go to Shop-O-Rama. Lots of aisles. Long lines. Mama is too busy to notice ...",
+    "coverImage": "/covers/llama-llama-mad-at-mama.jpg"
   },
   {
     "id": "170",
