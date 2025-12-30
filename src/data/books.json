@@ -2810,5 +2810,176 @@
     "lexile": "BR",
     "tags": ["Mathical", "Math", "Shapes", "Visual", "Beginner"],
     "description": "Circles, squares, and triangles dance across the page, transforming into new shapes and objects. A playful introduction to geometry for young learners."
+  },
+  {
+    "id": "247",
+    "title": "Absolutely One Thing: Featuring Charlie and Lola",
+    "author": "Lauren Child",
+    "isbn": "9780803738294",
+    "lexile": "AD420L",
+    "tags": ["Mathical", "Math", "Funny", "Beginner"],
+    "description": "Charlie is trying to sort one thing, but Lola keeps changing the categories! A hilarious introduction to sorting, classifying, and mathematical thinking."
+  },
+  {
+    "id": "248",
+    "title": "The Animals Would Not Sleep",
+    "author": "Sara Levine",
+    "isbn": "9781481440691",
+    "lexile": "AD510L",
+    "tags": ["Mathical", "Math", "Animals", "Sorting"],
+    "description": "Marco's stuffed animals won't go to sleep until he organizes them just right. A fun story about sorting, patterns, and problem-solving at bedtime."
+  },
+  {
+    "id": "249",
+    "title": "Cao Chong Weighs an Elephant",
+    "author": "Songju Ma Daemicke",
+    "isbn": "9781627791847",
+    "lexile": "AD620L",
+    "tags": ["Mathical", "Math", "History", "Problem Solving", "Diverse"],
+    "description": "In ancient China, young Cao Chong uses clever math to solve an impossible problem: how to weigh an elephant! Based on a true historical story."
+  },
+  {
+    "id": "250",
+    "title": "Count on Me",
+    "author": "Miguel Tanco",
+    "isbn": "9781536201963",
+    "lexile": "AD550L",
+    "tags": ["Mathical", "Math", "Diverse", "Patterns"],
+    "description": "A girl shares her love for numbers and shows how math is everywhere—in nature, music, art, and daily life. Math has never been more beautiful!"
+  },
+  {
+    "id": "251",
+    "title": "Friends Beyond Measure: A Story Told with Infographics",
+    "author": "Lalena Fisher",
+    "isbn": "9781423646495",
+    "lexile": "AD630L",
+    "tags": ["Mathical", "Math", "Infographics", "Visual", "Data"],
+    "description": "Follow two best friends through life using colorful infographics and data visualization. A unique way to explore friendship, time, and growing up!"
+  },
+  {
+    "id": "252",
+    "title": "How to Explain Coding to a Grown-Up",
+    "author": "Ruth Spiro",
+    "isbn": "9781585364190",
+    "lexile": "AD560L",
+    "tags": ["Mathical", "STEM", "Coding", "Technology", "Modern"],
+    "description": "A young girl teaches her mom all about coding, algorithms, and computer thinking. The perfect introduction to computer science for kids and parents!"
+  },
+  {
+    "id": "253",
+    "title": "Is 2 a Lot?: An Adventure with Numbers",
+    "author": "Annie Watson",
+    "isbn": "9781250308306",
+    "lexile": "AD380L",
+    "tags": ["Mathical", "Math", "Counting", "Perspective", "Beginner"],
+    "description": "Is 2 elephants a lot? Is 2 grains of sand? A playful exploration of relative size and how numbers mean different things in different contexts."
+  },
+  {
+    "id": "254",
+    "title": "Max's Math",
+    "author": "Kate Banks",
+    "isbn": "9780374348823",
+    "lexile": "AD480L",
+    "tags": ["Mathical", "Math", "Nature", "Counting"],
+    "description": "Max and his brothers explore the woods, discovering math everywhere they go. Counting, patterns, and shapes come alive in nature!"
+  },
+  {
+    "id": "255",
+    "title": "One Boy Watching",
+    "author": "Grant Snider",
+    "isbn": "9781524763107",
+    "lexile": "AD490L",
+    "tags": ["Mathical", "Math", "Observation", "Patterns"],
+    "description": "A boy observes the world during his bus ride, noticing patterns, numbers, and connections everywhere. A meditation on mathematical thinking."
+  },
+  {
+    "id": "256",
+    "title": "100 Mighty Dragons All Named Broccoli",
+    "author": "David LaRochelle",
+    "isbn": "9780316299459",
+    "lexile": "AD460L",
+    "tags": ["Mathical", "Math", "Counting", "Funny", "Dragons"],
+    "description": "What happens when 100 dragons all named Broccoli show up for a party? Chaos and hilarious counting fun! A wacky introduction to large numbers."
+  },
+  {
+    "id": "257",
+    "title": "The Quest for a Tangram Dragon",
+    "author": "Christine Liu-Perkins",
+    "isbn": "9781534438811",
+    "lexile": "AD610L",
+    "tags": ["Mathical", "Math", "Shapes", "Puzzles", "Diverse"],
+    "description": "Li Na and her sister try to recreate a tangram dragon shape. A story about persistence, spatial reasoning, and the ancient Chinese tangram puzzle."
+  },
+  {
+    "id": "258",
+    "title": "Rafa Counts on Papá",
+    "author": "Joe Cepeda",
+    "isbn": "9781338133653",
+    "lexile": "AD410L",
+    "tags": ["Mathical", "Math", "Family", "Diverse", "Counting"],
+    "description": "Rafa and his father walk through their neighborhood, counting everything they see. A sweet bilingual story about family, community, and numbers."
+  },
+  {
+    "id": "259",
+    "title": "3x4",
+    "author": "Ivan Brunetti",
+    "isbn": "9780451479686",
+    "lexile": "BR",
+    "tags": ["Mathical", "Math", "Multiplication", "Visual", "Art"],
+    "description": "A clever wordless picture book that introduces multiplication through creative visual patterns and groupings. Art meets math in this stunning book!"
+  },
+  {
+    "id": "260",
+    "title": "Too Many Pigs and One Big Bad Wolf",
+    "author": "Davide Calì",
+    "isbn": "9781419738586",
+    "lexile": "AD390L",
+    "tags": ["Mathical", "Math", "Funny", "Counting", "Fractured Fairy Tale"],
+    "description": "The three little pigs become four, then five, then more! Can the wolf keep up with all the math? A hilarious twist on the classic tale."
+  },
+  {
+    "id": "261",
+    "title": "Uma Wimple Charts Her House",
+    "author": "Reif Larsen",
+    "isbn": "9780593304310",
+    "lexile": "AD670L",
+    "tags": ["Mathical", "Math", "Mapping", "Infographics", "Visual"],
+    "description": "Uma loves making charts, maps, and diagrams of everything in her house. A celebration of data visualization and creative mathematical thinking!"
+  },
+  {
+    "id": "262",
+    "title": "We Are Branches",
+    "author": "Joyce Sidman",
+    "isbn": "9781506454559",
+    "lexile": "AD720L",
+    "tags": ["Mathical", "Math", "Nature", "Poetry", "Patterns"],
+    "description": "Explore the mathematical beauty of branching patterns in nature through gorgeous illustrations and poetic text. Trees, rivers, and families all branch!"
+  },
+  {
+    "id": "263",
+    "title": "We Are One: How the World Adds Up",
+    "author": "Susan Hood",
+    "isbn": "9781338714692",
+    "lexile": "AD540L",
+    "tags": ["Mathical", "Math", "Diverse", "Unity", "Counting"],
+    "description": "One world, made up of many parts. A beautiful counting book that shows how individual pieces come together to make a whole, celebrating diversity and unity."
+  },
+  {
+    "id": "264",
+    "title": "You Rule!",
+    "author": "Rilla Alexander",
+    "isbn": "9781452150178",
+    "lexile": "AD430L",
+    "tags": ["Mathical", "Math", "Measurement", "Visual", "Creative"],
+    "description": "Measure your world in creative ways! From feet to paper clips, this playful book shows kids how to measure anything and make their own rules."
+  },
+  {
+    "id": "265",
+    "title": "Zero Zebras: A Counting Book About What's Not There",
+    "author": "Bruce Goldstone",
+    "isbn": "9781250308344",
+    "lexile": "AD520L",
+    "tags": ["Mathical", "Math", "Zero", "Counting", "Beginner"],
+    "description": "A unique counting book that focuses on zero and the concept of 'none.' What does it mean when something isn't there? A mind-bending math concept!"
   }
 ]
