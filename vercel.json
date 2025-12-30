@@ -1,5 +1,6 @@
 {
-  "buildCommand": "npm install && npm run build",
+  "installCommand": "pnpm install",
+  "buildCommand": "pnpm run build",
   "git": {
     "deploymentEnabled": {
       "main": true
