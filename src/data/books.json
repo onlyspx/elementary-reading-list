@@ -2644,7 +2644,8 @@
       "Math",
       "Modern"
     ],
-    "description": "The story of Paul Erdős, one of the most brilliant mathematicians of the 20th century, who saw math everywhere and loved numbers more than anything else."
+    "description": "The story of Paul Erdős, one of the most brilliant mathematicians of the 20th century, who saw math everywhere and loved numbers more than anything else.",
+    "coverImage": "/covers/mathical-227.jpg"
   },
   {
     "id": "228",
@@ -2675,7 +2676,8 @@
       "Diverse",
       "Classic"
     ],
-    "description": "A clever girl named Rani uses exponential doubling to outsmart a selfish raja. Starting with one grain of rice that doubles each day, she teaches a powerful lesson about math and generosity."
+    "description": "A clever girl named Rani uses exponential doubling to outsmart a selfish raja. Starting with one grain of rice that doubles each day, she teaches a powerful lesson about math and generosity.",
+    "coverImage": "/covers/mathical-229.jpg"
   },
   {
     "id": "230",
@@ -2704,7 +2706,8 @@
       "Realistic",
       "Beginner"
     ],
-    "description": "Pauline and John-John are determined to sell lemonade—in winter! Through their adventure, young readers learn about money, counting, and entrepreneurship."
+    "description": "Pauline and John-John are determined to sell lemonade—in winter! Through their adventure, young readers learn about money, counting, and entrepreneurship.",
+    "coverImage": "/covers/mathical-231.jpg"
   },
   {
     "id": "232",
@@ -2731,7 +2734,8 @@
       "Counting",
       "Visual"
     ],
-    "description": "Using colorful jelly beans, this book helps kids visualize and understand large numbers, from 10 to 1 million! A deliciously fun way to learn about big numbers."
+    "description": "Using colorful jelly beans, this book helps kids visualize and understand large numbers, from 10 to 1 million! A deliciously fun way to learn about big numbers.",
+    "coverImage": "/covers/mathical-233.jpg"
   },
   {
     "id": "234",
@@ -2954,7 +2958,8 @@
       "Problem Solving",
       "Diverse"
     ],
-    "description": "In ancient China, young Cao Chong uses clever math to solve an impossible problem: how to weigh an elephant! Based on a true historical story."
+    "description": "In ancient China, young Cao Chong uses clever math to solve an impossible problem: how to weigh an elephant! Based on a true historical story.",
+    "coverImage": "/covers/mathical-249.jpg"
   },
   {
     "id": "250",
@@ -2982,7 +2987,8 @@
       "Visual",
       "Data"
     ],
-    "description": "Follow two best friends through life using colorful infographics and data visualization. A unique way to explore friendship, time, and growing up!"
+    "description": "Follow two best friends through life using colorful infographics and data visualization. A unique way to explore friendship, time, and growing up!",
+    "coverImage": "/covers/mathical-251.jpg"
   },
   {
     "id": "252",
@@ -2997,7 +3003,8 @@
       "Technology",
       "Modern"
     ],
-    "description": "A young girl teaches her mom all about coding, algorithms, and computer thinking. The perfect introduction to computer science for kids and parents!"
+    "description": "A young girl teaches her mom all about coding, algorithms, and computer thinking. The perfect introduction to computer science for kids and parents!",
+    "coverImage": "/covers/mathical-252.jpg"
   },
   {
     "id": "253",
