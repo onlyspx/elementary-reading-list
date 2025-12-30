@@ -89,6 +89,7 @@ export default function Home() {
     { id: 'all', label: 'All Books', icon: '📚' },
     { id: 'MV Library', label: 'MV Library List', icon: '🏛️', highlight: true },
     { id: 'K-12 Reading List', label: 'K-12 Reading List', icon: '📋', highlight: true },
+    { id: 'Mathical', label: 'Mathical Award', icon: '🏆', highlight: true },
     { id: 'Graphic Novel', label: 'Graphic Novels', icon: '💬' },
     { id: 'Modern', label: 'Modern', icon: '✨' },
     { id: 'Chapter Book', label: 'Chapter Books', icon: '📖' },

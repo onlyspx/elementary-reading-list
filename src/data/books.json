@@ -2630,5 +2630,185 @@
       "K-12 Reading List"
     ],
     "coverImage": "/covers/k12-the-retired-kid.jpg"
+  },
+  {
+    "id": "227",
+    "title": "The Boy Who Loved Math: The Improbable Life of Paul Erdős",
+    "author": "Deborah Heiligman",
+    "isbn": "9781596433076",
+    "lexile": "AD740L",
+    "tags": ["Mathical", "STEM", "Biography", "Math", "Modern"],
+    "description": "The story of Paul Erdős, one of the most brilliant mathematicians of the 20th century, who saw math everywhere and loved numbers more than anything else."
+  },
+  {
+    "id": "228",
+    "title": "Counting on Katherine: How Katherine Johnson Saved Apollo 13",
+    "author": "Helaine Becker",
+    "isbn": "9781250137524",
+    "lexile": "AD570L",
+    "tags": ["Mathical", "STEM", "Biography", "Math", "Diverse", "History", "Modern"],
+    "description": "The inspiring story of Katherine Johnson, the brilliant NASA mathematician whose calculations helped save the Apollo 13 mission and paved the way for space exploration."
+  },
+  {
+    "id": "229",
+    "title": "One Grain of Rice: A Mathematical Folktale",
+    "author": "Demi",
+    "isbn": "9780590939980",
+    "lexile": "AD770L",
+    "tags": ["Mathical", "Math", "Folktale", "Diverse", "Classic"],
+    "description": "A clever girl named Rani uses exponential doubling to outsmart a selfish raja. Starting with one grain of rice that doubles each day, she teaches a powerful lesson about math and generosity."
+  },
+  {
+    "id": "230",
+    "title": "Nothing Stopped Sophie: The Story of Unshakable Mathematician Sophie Germain",
+    "author": "Cheryl Bardoe",
+    "isbn": "9780316278201",
+    "lexile": "AD900L",
+    "tags": ["Mathical", "STEM", "Biography", "Math", "History"],
+    "description": "The inspiring story of Sophie Germain, who overcame every obstacle to become one of the greatest mathematicians of all time, even when women were banned from studying math."
+  },
+  {
+    "id": "231",
+    "title": "Lemonade in Winter: A Book About Two Kids Counting Money",
+    "author": "Emily Jenkins",
+    "isbn": "9780375858833",
+    "lexile": "AD480L",
+    "tags": ["Mathical", "Math", "Money", "Realistic", "Beginner"],
+    "description": "Pauline and John-John are determined to sell lemonade—in winter! Through their adventure, young readers learn about money, counting, and entrepreneurship."
+  },
+  {
+    "id": "232",
+    "title": "Zero the Hero",
+    "author": "Joan Holub",
+    "isbn": "9780805094329",
+    "lexile": "AD600L",
+    "tags": ["Mathical", "Math", "Funny", "Beginner"],
+    "description": "Zero feels like a nobody next to all the other numbers. But when numbers start disappearing, Zero proves that being nothing doesn't mean you're not important!"
+  },
+  {
+    "id": "233",
+    "title": "How Many Jelly Beans?: A Giant Book of Giant Numbers",
+    "author": "Andrea Menotti",
+    "isbn": "9780811858434",
+    "lexile": "AD690L",
+    "tags": ["Mathical", "Math", "Counting", "Visual"],
+    "description": "Using colorful jelly beans, this book helps kids visualize and understand large numbers, from 10 to 1 million! A deliciously fun way to learn about big numbers."
+  },
+  {
+    "id": "234",
+    "title": "One Big Pair of Underwear",
+    "author": "Laura Gehl",
+    "isbn": "9781481482516",
+    "lexile": "AD250L",
+    "tags": ["Mathical", "Math", "Funny", "Counting", "Beginner"],
+    "description": "Ten silly animals try to share one big pair of underwear! A hilarious counting and division story that teaches about sharing and cooperation."
+  },
+  {
+    "id": "235",
+    "title": "Pigeon Math",
+    "author": "Asia Citro",
+    "isbn": "9780545946254",
+    "lexile": "BR",
+    "tags": ["Mathical", "Math", "Funny", "Beginner"],
+    "description": "When pigeons invade a park, the counting chaos begins! Addition, subtraction, and lots of silly pigeons make learning math ridiculously fun."
+  },
+  {
+    "id": "236",
+    "title": "Counting the Stars: The Story of Katherine Johnson, NASA Mathematician",
+    "author": "Lesa Cline-Ransome",
+    "isbn": "9781534440289",
+    "lexile": "AD680L",
+    "tags": ["Mathical", "STEM", "Biography", "Math", "Diverse", "History", "Modern"],
+    "description": "From counting stars as a child to calculating rocket trajectories for NASA, this is the inspiring story of Katherine Johnson, one of the brilliant women who helped America reach the moon."
+  },
+  {
+    "id": "237",
+    "title": "The Girl with a Mind for Math: The Story of Raye Montague",
+    "author": "Julia Finley Mosca",
+    "isbn": "9781943147618",
+    "lexile": "AD790L",
+    "tags": ["Mathical", "STEM", "Biography", "Math", "Diverse", "History", "Modern"],
+    "description": "Raye Montague loved solving problems and learning about machines. She became the first person to design a Navy ship using a computer—revolutionizing shipbuilding!"
+  },
+  {
+    "id": "238",
+    "title": "Lifetime: The Amazing Numbers in Animal Lives",
+    "author": "Lola M. Schaefer",
+    "isbn": "9781452131122",
+    "lexile": "AD630L",
+    "tags": ["Mathical", "Math", "Animals", "Science", "Nonfiction"],
+    "description": "How many times does a hummingbird's heart beat in a lifetime? Explore fascinating math through amazing animal facts in this beautiful counting book."
+  },
+  {
+    "id": "239",
+    "title": "When Sophie Thinks She Can't...",
+    "author": "Molly Bang",
+    "isbn": "9780545849494",
+    "lexile": "AD470L",
+    "tags": ["Mathical", "Math", "Growth Mindset", "School"],
+    "description": "Sophie struggles with a math problem and wants to give up. This empowering story teaches kids about persistence, problem-solving, and believing in themselves."
+  },
+  {
+    "id": "240",
+    "title": "Every Dog in the Neighborhood",
+    "author": "Philip C. Stead",
+    "isbn": "9781250308153",
+    "lexile": "AD580L",
+    "tags": ["Mathical", "Math", "Animals", "Community", "Modern"],
+    "description": "A boy and his grandmother conduct a census of all the dogs in their neighborhood. A gentle story about data collection, community, and the love of dogs."
+  },
+  {
+    "id": "241",
+    "title": "A Treasure of Measures",
+    "author": "Mike Downs",
+    "isbn": "9780803741812",
+    "lexile": "AD650L",
+    "tags": ["Mathical", "Math", "Measurement", "History"],
+    "description": "Before rulers and measuring cups, how did people measure things? Take a journey through history to discover how measurement began and why it matters."
+  },
+  {
+    "id": "242",
+    "title": "The Spark in Me",
+    "author": "Miguel Tanco",
+    "isbn": "9780807521113",
+    "lexile": "AD710L",
+    "tags": ["Mathical", "Math", "Science", "Diverse"],
+    "description": "Math is everywhere—from the rhythm of music to the patterns in nature! A girl discovers her passion for math and sees how it connects to the world around her."
+  },
+  {
+    "id": "243",
+    "title": "Billions of Bricks: A Counting Book About Building",
+    "author": "Kurt Cyrus",
+    "isbn": "9781250308122",
+    "lexile": "AD520L",
+    "tags": ["Mathical", "Math", "Counting", "Building", "Beginner"],
+    "description": "From one brick to billions, watch as workers build amazing structures using math and teamwork. A rhythmic counting book perfect for young builders!"
+  },
+  {
+    "id": "244",
+    "title": "Bird Count",
+    "author": "Susan Edwards Richmond",
+    "isbn": "9781561459469",
+    "lexile": "AD470L",
+    "tags": ["Mathical", "Math", "Science", "Nature", "Birds"],
+    "description": "Ava joins a real-life bird count, learning about different species and the importance of collecting data. Math meets nature in this engaging story."
+  },
+  {
+    "id": "245",
+    "title": "Sheep Won't Sleep: Counting by 2s, 5s, and 10s",
+    "author": "Judy Cox",
+    "isbn": "9780823423118",
+    "lexile": "AD310L",
+    "tags": ["Mathical", "Math", "Counting", "Funny", "Beginner"],
+    "description": "Clarissa the sheep tries counting different animals in groups of 2s, 5s, and 10s to help a girl fall asleep. Skip counting has never been so funny!"
+  },
+  {
+    "id": "246",
+    "title": "Shapes, Reshape!",
+    "author": "Silvia Borando",
+    "isbn": "9781452127743",
+    "lexile": "BR",
+    "tags": ["Mathical", "Math", "Shapes", "Visual", "Beginner"],
+    "description": "Circles, squares, and triangles dance across the page, transforming into new shapes and objects. A playful introduction to geometry for young learners."
   }
 ]
