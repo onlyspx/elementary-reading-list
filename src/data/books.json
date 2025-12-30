@@ -1,0 +1,2634 @@
+[
+  {
+    "id": "1",
+    "title": "Elephant & Piggie: Today I Will Fly!",
+    "author": "Mo Willems",
+    "isbn": "9781406338485",
+    "lexile": "BR",
+    "tags": [
+      "Funny",
+      "Beginner"
+    ],
+    "description": "Gerald and Piggie are best friends! In this hilarious easy reader, Piggie is determined to fly. Will she succeed? A perfect book for beginning readers with simple text and big laughs!"
+  },
+  {
+    "id": "2",
+    "title": "Frog and Toad Are Friends",
+    "author": "Arnold Lobel",
+    "isbn": "9780064440202",
+    "lexile": "330L",
+    "tags": [
+      "Classic",
+      "Friendship"
+    ],
+    "description": "Meet two best friends - Frog and Toad! Through five heartwarming stories, these lovable characters show what true friendship means. Perfect for early readers learning about kindness and loyalty."
+  },
+  {
+    "id": "3",
+    "title": "The Princess in Black",
+    "author": "Shannon Hale",
+    "isbn": "9780763678883",
+    "lexile": "410L",
+    "tags": [
+      "Adventure",
+      "Series"
+    ],
+    "description": "Princess Magnolia has a secret! When monsters threaten her kingdom, she transforms into the Princess in Black. Action, humor, and girl power combine in this exciting early chapter book series."
+  },
+  {
+    "id": "4",
+    "title": "Magic Tree House: Dinosaurs Before Dark",
+    "author": "Mary Pope Osborne",
+    "isbn": "9780679824114",
+    "lexile": "280L",
+    "tags": [
+      "Adventure",
+      "Chapter Book"
+    ],
+    "description": "Jack and Annie discover a magical tree house that takes them back to the time of dinosaurs! The first book in the beloved series that makes history exciting for young readers."
+  },
+  {
+    "id": "5",
+    "title": "Narwhal: Unicorn of the Sea",
+    "author": "Ben Clanton",
+    "isbn": "9781101918265",
+    "lexile": "GN320L",
+    "tags": [
+      "Graphic Novel",
+      "Funny",
+      "MV Library"
+    ],
+    "coverImage": "/covers/narwhal-unicorn-of-the-sea.jpg",
+    "description": "Narwhal is a happy-go-lucky narwhal who thinks he's the unicorn of the sea! When he meets Jelly, a no-nonsense jellyfish, an unlikely friendship blooms. A charming graphic novel for early readers."
+  },
+  {
+    "id": "6",
+    "title": "Mercy Watson to the Rescue",
+    "author": "Kate DiCamillo",
+    "isbn": "9780763649517",
+    "lexile": "470L",
+    "tags": [
+      "Funny",
+      "Chapter Book"
+    ],
+    "description": "Mercy Watson is a porcine wonder who loves butter toast! When the Watsons' bed crashes through the floor, can Mercy save the day? A hilarious early chapter book perfect for reluctant readers."
+  },
+  {
+    "id": "7",
+    "title": "Pete the Cat: I Love My White Shoes",
+    "author": "Eric Litwin",
+    "isbn": "9780061906220",
+    "lexile": "AD330L",
+    "tags": [
+      "Picture Book",
+      "Music"
+    ],
+    "description": "Pete the Cat walks down the street in his brand new white shoes. But what happens when he steps in strawberries, blueberries, and mud? A groovy story about staying positive no matter what!"
+  },
+  {
+    "id": "8",
+    "title": "Dog Man",
+    "author": "Dav Pilkey",
+    "isbn": "9780545581608",
+    "lexile": "GN370L",
+    "tags": [
+      "Graphic Novel",
+      "Funny"
+    ],
+    "description": "Part dog, part man, all hero! When a police dog and his cop partner are injured, they're combined to create Dog Man. Action-packed graphic novel fun from the creator of Captain Underpants!"
+  },
+  {
+    "id": "9",
+    "title": "Owl Diaries: Eva's Treetop Festival",
+    "author": "Rebecca Elliott",
+    "isbn": "9780545681155",
+    "lexile": "450L",
+    "tags": [
+      "Series",
+      "Diaries"
+    ]
+  },
+  {
+    "id": "10",
+    "title": "The Bad Guys",
+    "author": "Aaron Blabey",
+    "isbn": "9780545912402",
+    "lexile": "GN330L",
+    "tags": [
+      "Funny",
+      "Graphic Novel"
+    ],
+    "description": "Mr. Wolf wants to be good, not bad! He recruits his friends Mr. Snake, Mr. Piranha, and Mr. Shark to do good deeds. But can bad guys really change? A hilarious graphic novel that challenges stereotypes."
+  },
+  {
+    "id": "11",
+    "title": "Junie B. Jones and the Stupid Smelly Bus",
+    "author": "Barbara Park",
+    "isbn": "9780679832577",
+    "lexile": "380L",
+    "tags": [
+      "Funny",
+      "School"
+    ],
+    "description": "Meet Junie B. Jones! She's starting kindergarten and she's NOT happy about riding the school bus. Follow her funny, honest adventures that capture the ups and downs of being six."
+  },
+  {
+    "id": "12",
+    "title": "Amelia Bedelia",
+    "author": "Peggy Parish",
+    "isbn": "9780064441551",
+    "lexile": "300L",
+    "tags": [
+      "Classic",
+      "Funny"
+    ]
+  },
+  {
+    "id": "13",
+    "title": "Nate the Great",
+    "author": "Marjorie Weinman Sharmat",
+    "isbn": "9780440461265",
+    "lexile": "310L",
+    "tags": [
+      "Mystery",
+      "Classic"
+    ]
+  },
+  {
+    "id": "14",
+    "title": "Henry and Mudge",
+    "author": "Cynthia Rylant",
+    "isbn": "9780689810053",
+    "lexile": "360L",
+    "tags": [
+      "Animals",
+      "Classic"
+    ]
+  },
+  {
+    "id": "15",
+    "title": "Dragons Love Tacos",
+    "author": "Adam Rubin",
+    "isbn": "9780803736801",
+    "lexile": "AD480L",
+    "tags": [
+      "Funny",
+      "Picture Book"
+    ],
+    "description": "Dragons LOVE tacos! They'll eat beef tacos, chicken tacos, and great big crispy tacos. But whatever you do, don't feed them anything with spicy salsa! A laugh-out-loud favorite."
+  },
+  {
+    "id": "16",
+    "title": "The Day You Begin",
+    "author": "Jacqueline Woodson",
+    "isbn": "9780399246531",
+    "lexile": "AD420L",
+    "tags": [
+      "School",
+      "Picture Book"
+    ]
+  },
+  {
+    "id": "17",
+    "title": "Where the Wild Things Are",
+    "author": "Maurice Sendak",
+    "isbn": "9780060254926",
+    "lexile": "740L",
+    "tags": [
+      "Classic",
+      "Fantasy",
+      "K-12 Reading List"
+    ],
+    "description": "Max has been sent to bed without supper. But once in his bedroom, his imagination comes alive with forests, jungles, wild beasts, and almost scary monsters.",
+    "coverImage": "/covers/k12-where-the-wild-things-are.jpg"
+  },
+  {
+    "id": "18",
+    "title": "Green Eggs and Ham",
+    "author": "Dr. Seuss",
+    "isbn": "9780394800165",
+    "lexile": "30L",
+    "tags": [
+      "Rhyming",
+      "Classic",
+      "K-12 Reading List"
+    ],
+    "description": "The classic Dr. Seuss rhyming story about all the places green eggs and ham can be eaten. Can the reader remember all the places at the end?",
+    "coverImage": "/covers/k12-green-eggs-and-ham.jpg"
+  },
+  {
+    "id": "19",
+    "title": "Last Stop on Market Street",
+    "author": "Matt de la Pe\u00f1a",
+    "isbn": "9780399257742",
+    "lexile": "AD600L",
+    "tags": [
+      "Award Winner",
+      "City Life"
+    ],
+    "description": "Every Sunday, CJ rides the bus across town with his grandma. He wishes he had more, but Nana helps him see the beauty all around them. A beautiful story about gratitude and seeing the world with wonder."
+  },
+  {
+    "id": "20",
+    "title": "Rosie Revere, Engineer",
+    "author": "Andrea Beaty",
+    "isbn": "9781419708459",
+    "lexile": "AD550L",
+    "tags": [
+      "STEM",
+      "Inspiring"
+    ]
+  },
+  {
+    "id": "21",
+    "title": "Waiting Is Not Easy!",
+    "author": "Mo Willems",
+    "isbn": "9781423199571",
+    "lexile": "BR",
+    "tags": [
+      "Funny",
+      "Beginner"
+    ]
+  },
+  {
+    "id": "22",
+    "title": "Cornbread & Poppy",
+    "author": "Matthew Cordell",
+    "isbn": "9780316628204",
+    "lexile": "370L",
+    "tags": [
+      "Friendship",
+      "Modern Classic"
+    ]
+  },
+  {
+    "id": "23",
+    "title": "Knight Owl",
+    "author": "Christopher Denise",
+    "isbn": "9780316310628",
+    "lexile": "AD480L",
+    "tags": [
+      "Fantasy",
+      "Animals"
+    ]
+  },
+  {
+    "id": "24",
+    "title": "Ivy + Bean",
+    "author": "Annie Barrows",
+    "isbn": "9780811849098",
+    "lexile": "390L",
+    "tags": [
+      "Friendship",
+      "Series"
+    ]
+  },
+  {
+    "id": "25",
+    "title": "Press Here",
+    "author": "Herv\u00e9 Tullet",
+    "isbn": "9780811879545",
+    "lexile": "BR",
+    "tags": [
+      "Interactive",
+      "Art",
+      "K-12 Reading List"
+    ],
+    "description": "A clever book to fire the imagination. The reader presses dots, shakes pages, pulls tabs \u2013 and creates their own magic trick-like adventure. A great book for emerging readers and ideal for reading and discussing with your child. A great 1st grade storybook to share with reluctant readers.",
+    "coverImage": "/covers/k12-press-here.jpg"
+  },
+  {
+    "id": "26",
+    "title": "Don't Let the Pigeon Drive the Bus!",
+    "author": "Mo Willems",
+    "isbn": "9780786819881",
+    "lexile": "AD320L",
+    "tags": [
+      "Funny",
+      "Picture Book"
+    ]
+  },
+  {
+    "id": "27",
+    "title": "Goodnight Moon",
+    "author": "Margaret Wise Brown",
+    "isbn": "9780060775858",
+    "lexile": "AD120L",
+    "tags": [
+      "Bedtime",
+      "Classic"
+    ]
+  },
+  {
+    "id": "28",
+    "title": "The Very Hungry Caterpillar",
+    "author": "Eric Carle",
+    "isbn": "9780399226908",
+    "lexile": "AD460L",
+    "tags": [
+      "Classic",
+      "Animals"
+    ],
+    "description": "Follow a tiny caterpillar as he eats his way through the week, munching everything from apples to lollipops! Watch him transform into a beautiful butterfly in this classic that teaches counting and days of the week."
+  },
+  {
+    "id": "29",
+    "title": "Click, Clack, Moo: Cows That Type",
+    "author": "Doreen Cronin",
+    "isbn": "9780689832130",
+    "lexile": "AD510L",
+    "tags": [
+      "Funny",
+      "Farm"
+    ]
+  },
+  {
+    "id": "30",
+    "title": "Brown Bear, Brown Bear, What Do You See?",
+    "author": "Bill Martin Jr.",
+    "isbn": "9780805047905",
+    "lexile": "AD190L",
+    "tags": [
+      "Rhyming",
+      "Animals",
+      "K-12 Reading List"
+    ],
+    "description": "Ideal for reluctant and emerging readers, this is a great rhyming book with repetition and stunning pictures.",
+    "coverImage": "/covers/k12-brown-bear-brown-bear.jpg"
+  },
+  {
+    "id": "31",
+    "title": "If You Give a Mouse a Cookie",
+    "author": "Laura Numeroff",
+    "isbn": "9780060245863",
+    "lexile": "AD410L",
+    "tags": [
+      "Funny",
+      "Classic"
+    ]
+  },
+  {
+    "id": "32",
+    "title": "Llama Llama Red Pajama",
+    "author": "Anna Dewdney",
+    "isbn": "9780670059836",
+    "lexile": "AD490L",
+    "tags": [
+      "Rhyming",
+      "Emotions"
+    ]
+  },
+  {
+    "id": "33",
+    "title": "Corduroy",
+    "author": "Don Freeman",
+    "isbn": "9780670241330",
+    "lexile": "AD420L",
+    "tags": [
+      "Classic",
+      "Friendship"
+    ]
+  },
+  {
+    "id": "34",
+    "title": "The Cat in the Hat",
+    "author": "Dr. Seuss",
+    "isbn": "9780394800011",
+    "lexile": "260L",
+    "tags": [
+      "Rhyming",
+      "Classic"
+    ],
+    "description": "It's a rainy day and Sally and her brother are bored. Then the Cat in the Hat arrives with his crazy tricks! But will they clean up before Mother gets home? Pure Dr. Seuss chaos and fun!"
+  },
+  {
+    "id": "35",
+    "title": "Harold and the Purple Crayon",
+    "author": "Crockett Johnson",
+    "isbn": "9780064430227",
+    "lexile": "AD350L",
+    "tags": [
+      "Imagination",
+      "Classic"
+    ]
+  },
+  {
+    "id": "36",
+    "title": "Alexander and the Terrible, Horrible, No Good, Very Bad Day",
+    "author": "Judith Viorst",
+    "isbn": "9780689300721",
+    "lexile": "AD700L",
+    "tags": [
+      "Emotions",
+      "Classic"
+    ]
+  },
+  {
+    "id": "37",
+    "title": "Madeline",
+    "author": "Ludwig Bemelmans",
+    "isbn": "9780140564396",
+    "lexile": "AD580L",
+    "tags": [
+      "Classic",
+      "Rhyming"
+    ]
+  },
+  {
+    "id": "38",
+    "title": "Caps for Sale",
+    "author": "Esphyr Slobodkina",
+    "isbn": "9780064431439",
+    "lexile": "AD450L",
+    "tags": [
+      "Classic",
+      "Funny"
+    ]
+  },
+  {
+    "id": "39",
+    "title": "Cloudy With a Chance of Meatballs",
+    "author": "Judi Barrett",
+    "isbn": "9780689306471",
+    "lexile": "AD610L",
+    "tags": [
+      "Fantasy",
+      "Weather"
+    ]
+  },
+  {
+    "id": "40",
+    "title": "Giraffes Can't Dance",
+    "author": "Giles Andreae",
+    "isbn": "9780545392556",
+    "lexile": "AD390L",
+    "tags": [
+      "Rhyming",
+      "Self-Esteem"
+    ]
+  },
+  {
+    "id": "41",
+    "title": "The Snowy Day",
+    "author": "Ezra Jack Keats",
+    "isbn": "9780670654000",
+    "lexile": "AD500L",
+    "tags": [
+      "Classic",
+      "Winter"
+    ]
+  },
+  {
+    "id": "42",
+    "title": "Room on the Broom",
+    "author": "Julia Donaldson",
+    "isbn": "9780142501122",
+    "lexile": "AD550L",
+    "tags": [
+      "Rhyming",
+      "Halloween"
+    ]
+  },
+  {
+    "id": "43",
+    "title": "The Gruffalo",
+    "author": "Julia Donaldson",
+    "isbn": "9780803731097",
+    "lexile": "AD560L",
+    "tags": [
+      "Rhyming",
+      "Monsters"
+    ]
+  },
+  {
+    "id": "44",
+    "title": "Go, Dog. Go!",
+    "author": "P.D. Eastman",
+    "isbn": "9780394800202",
+    "lexile": "50L",
+    "tags": [
+      "Beginner",
+      "Classic"
+    ]
+  },
+  {
+    "id": "45",
+    "title": "Are You My Mother?",
+    "author": "P.D. Eastman",
+    "isbn": "9780394800189",
+    "lexile": "100L",
+    "tags": [
+      "Beginner",
+      "Animals"
+    ]
+  },
+  {
+    "id": "46",
+    "title": "A Bear Called Paddington",
+    "author": "Michael Bond",
+    "isbn": "9780062312181",
+    "lexile": "550L",
+    "tags": [
+      "Classic",
+      "Chapter Book"
+    ]
+  },
+  {
+    "id": "47",
+    "title": "Winnie-the-Pooh",
+    "author": "A.A. Milne",
+    "isbn": "9780525444435",
+    "lexile": "730L",
+    "tags": [
+      "Classic",
+      "Friendship"
+    ]
+  },
+  {
+    "id": "48",
+    "title": "Charlotte's Web",
+    "author": "E.B. White",
+    "isbn": "9780064400558",
+    "lexile": "680L",
+    "tags": [
+      "Classic",
+      "Chapter Book"
+    ]
+  },
+  {
+    "id": "49",
+    "title": "Stuart Little",
+    "author": "E.B. White",
+    "isbn": "9780064400565",
+    "lexile": "920L",
+    "tags": [
+      "Classic",
+      "Adventure"
+    ]
+  },
+  {
+    "id": "50",
+    "title": "Mr. Popper's Penguins",
+    "author": "Richard Atwater",
+    "isbn": "9780316058421",
+    "lexile": "610L",
+    "tags": [
+      "Classic",
+      "Funny"
+    ]
+  },
+  {
+    "id": "51",
+    "title": "Biscuit",
+    "author": "Alyssa Satin Capucilli",
+    "isbn": "9780064442121",
+    "lexile": "BR",
+    "tags": [
+      "Animals",
+      "Beginner"
+    ]
+  },
+  {
+    "id": "52",
+    "title": "Little Bear",
+    "author": "Else Holmelund Minarik",
+    "isbn": "9780064440042",
+    "lexile": "240L",
+    "tags": [
+      "Classic",
+      "Animals"
+    ]
+  },
+  {
+    "id": "53",
+    "title": "The Pigeon Finds a Hot Dog!",
+    "author": "Mo Willems",
+    "isbn": "9780786818693",
+    "lexile": "AD410L",
+    "tags": [
+      "Funny",
+      "Picture Book"
+    ]
+  },
+  {
+    "id": "54",
+    "title": "Flat Stanley",
+    "author": "Jeff Brown",
+    "isbn": "9780061989865",
+    "lexile": "420L",
+    "tags": [
+      "Adventure",
+      "Classic"
+    ]
+  },
+  {
+    "id": "55",
+    "title": "The Kissing Hand",
+    "author": "Audrey Penn",
+    "isbn": "9781933718002",
+    "lexile": "AD530L",
+    "tags": [
+      "Emotions",
+      "School"
+    ]
+  },
+  {
+    "id": "56",
+    "title": "Pinkalicious",
+    "author": "Victoria Kann",
+    "isbn": "9780060778002",
+    "lexile": "AD470L",
+    "tags": [
+      "Fantasy",
+      "Picture Book"
+    ]
+  },
+  {
+    "id": "57",
+    "title": "Danny and the Dinosaur",
+    "author": "Syd Hoff",
+    "isbn": "9780064440028",
+    "lexile": "260L",
+    "tags": [
+      "Classic",
+      "Dinosaurs"
+    ]
+  },
+  {
+    "id": "58",
+    "title": "Chrysanthemum",
+    "author": "Kevin Henkes",
+    "isbn": "9780688147327",
+    "lexile": "AD550L",
+    "tags": [
+      "School",
+      "Emotions"
+    ]
+  },
+  {
+    "id": "59",
+    "title": "A Color of His Own",
+    "author": "Leo Lionni",
+    "isbn": "9780394817088",
+    "lexile": "AD490L",
+    "tags": [
+      "Animals",
+      "Classic"
+    ]
+  },
+  {
+    "id": "60",
+    "title": "Fly Guy",
+    "author": "Tedd Arnold",
+    "isbn": "9780439639033",
+    "lexile": "280L",
+    "tags": [
+      "Funny",
+      "Series"
+    ]
+  },
+  {
+    "id": "61",
+    "title": "Splat the Cat",
+    "author": "Rob Scotton",
+    "isbn": "9780060831547",
+    "lexile": "AD350L",
+    "tags": [
+      "Funny",
+      "School"
+    ]
+  },
+  {
+    "id": "62",
+    "title": "Rainbow Fish",
+    "author": "Marcus Pfister",
+    "isbn": "9781558580091",
+    "lexile": "AD410L",
+    "tags": [
+      "Friendship",
+      "Classic"
+    ]
+  },
+  {
+    "id": "63",
+    "title": "The Hundred Dresses",
+    "author": "Eleanor Estes",
+    "isbn": "9780152051266",
+    "lexile": "630L",
+    "tags": [
+      "Classic",
+      "Emotions",
+      "K-12 Reading List"
+    ],
+    "description": "Wanda is teased by her classmates for wearing the same blue dress every day. This isn\u2019t helped by a lie she tells which snowballs out of control. But, her friend Maddie then shows extraordinary kindness and stands up for her. Ideal to discuss with your 1st grade child.",
+    "coverImage": "/covers/k12-the-hundred-dresses.jpg"
+  },
+  {
+    "id": "64",
+    "title": "The Tale of Peter Rabbit",
+    "author": "Beatrix Potter",
+    "isbn": "9780723247708",
+    "lexile": "AD440L",
+    "tags": [
+      "Classic",
+      "Animals"
+    ]
+  },
+  {
+    "id": "65",
+    "title": "Knuffle Bunny",
+    "author": "Mo Willems",
+    "isbn": "9780786818709",
+    "lexile": "AD390L",
+    "tags": [
+      "Funny",
+      "Picture Book",
+      "K-12 Reading List"
+    ],
+    "description": "Trixie goes with her father to the Laundromat. But she leaves something behind. No! It\u2019s Knufflebunny her favorite toy! How can she explain to her father when she has yet to utter her first word? A touching and fun 1st grade reading book.",
+    "coverImage": "/covers/k12-knuffle-bunny.jpg"
+  },
+  {
+    "id": "66",
+    "title": "Because of Winn-Dixie",
+    "author": "Kate DiCamillo",
+    "isbn": "9780763680862",
+    "lexile": "610L",
+    "tags": [
+      "Animals",
+      "Chapter Book"
+    ]
+  },
+  {
+    "id": "67",
+    "title": "Officer Buckle and Gloria",
+    "author": "Peggy Rathmann",
+    "isbn": "9780399226168",
+    "lexile": "AD540L",
+    "tags": [
+      "Funny",
+      "Animals"
+    ]
+  },
+  {
+    "id": "68",
+    "title": "Stellaluna",
+    "author": "Janell Cannon",
+    "isbn": "9780152802172",
+    "lexile": "AD610L",
+    "tags": [
+      "Animals",
+      "Friendship"
+    ]
+  },
+  {
+    "id": "69",
+    "title": "The Relatives Came",
+    "author": "Cynthia Rylant",
+    "isbn": "9780689717383",
+    "lexile": "AD570L",
+    "tags": [
+      "Family",
+      "Classic"
+    ]
+  },
+  {
+    "id": "70",
+    "title": "Miss Nelson Is Missing!",
+    "author": "Harry Allard",
+    "isbn": "9780395252963",
+    "lexile": "AD490L",
+    "tags": [
+      "School",
+      "Funny"
+    ]
+  },
+  {
+    "id": "71",
+    "title": "The Mitten",
+    "author": "Jan Brett",
+    "isbn": "9780399231094",
+    "lexile": "AD510L",
+    "tags": [
+      "Winter",
+      "Animals"
+    ]
+  },
+  {
+    "id": "72",
+    "title": "Lilly's Purple Plastic Purse",
+    "author": "Kevin Henkes",
+    "isbn": "9780688128975",
+    "lexile": "AD530L",
+    "tags": [
+      "School",
+      "Emotions"
+    ]
+  },
+  {
+    "id": "73",
+    "title": "Strega Nona",
+    "author": "Tomie dePaola",
+    "isbn": "9780671666064",
+    "lexile": "AD510L",
+    "tags": [
+      "Classic",
+      "Fantasy"
+    ]
+  },
+  {
+    "id": "74",
+    "title": "The Snowy Day and Other Stories",
+    "author": "Ezra Jack Keats",
+    "isbn": "9780670885800",
+    "lexile": "AD500L",
+    "tags": [
+      "Classic",
+      "Winter"
+    ]
+  },
+  {
+    "id": "75",
+    "title": "Curious George",
+    "author": "H.A. Rey",
+    "isbn": "9780395159934",
+    "lexile": "AD410L",
+    "tags": [
+      "Classic",
+      "Animals"
+    ]
+  },
+  {
+    "id": "76",
+    "title": "Make Way for Ducklings",
+    "author": "Robert McCloskey",
+    "isbn": "9780140564341",
+    "lexile": "AD640L",
+    "tags": [
+      "Classic",
+      "Animals",
+      "K-12 Reading List"
+    ],
+    "description": "Mrs. Mallard has the unenviable task of guiding her troop of ducklings across the city of Boston to the Public Gardens. But lots of interesting people help her along the way.",
+    "coverImage": "/covers/k12-make-way-for-ducklings.jpg"
+  },
+  {
+    "id": "77",
+    "title": "Sylvester and the Magic Pebble",
+    "author": "William Steig",
+    "isbn": "9780671662691",
+    "lexile": "AD550L",
+    "tags": [
+      "Classic",
+      "Fantasy"
+    ]
+  },
+  {
+    "id": "78",
+    "title": "The Giving Tree",
+    "author": "Shel Silverstein",
+    "isbn": "9780060256654",
+    "lexile": "AD530L",
+    "tags": [
+      "Classic",
+      "Emotions"
+    ]
+  },
+  {
+    "id": "79",
+    "title": "Swimmy",
+    "author": "Leo Lionni",
+    "isbn": "9780394826202",
+    "lexile": "AD520L",
+    "tags": [
+      "Classic",
+      "Animals"
+    ]
+  },
+  {
+    "id": "80",
+    "title": "Titch",
+    "author": "Pat Hutchins",
+    "isbn": "9780020437802",
+    "lexile": "AD340L",
+    "tags": [
+      "Family",
+      "Classic"
+    ]
+  },
+  {
+    "id": "81",
+    "title": "Chicken Soup with Rice",
+    "author": "Maurice Sendak",
+    "isbn": "9780064432535",
+    "lexile": "AD330L",
+    "tags": [
+      "Rhyming",
+      "Classic"
+    ]
+  },
+  {
+    "id": "82",
+    "title": "A Bargain for Frances",
+    "author": "Russell Hoban",
+    "isbn": "9780064440141",
+    "lexile": "340L",
+    "tags": [
+      "Friendship",
+      "Classic"
+    ]
+  },
+  {
+    "id": "83",
+    "title": "Leo the Late Bloomer",
+    "author": "Robert Kraus",
+    "isbn": "9780060837280",
+    "lexile": "AD360L",
+    "tags": [
+      "Emotions",
+      "Animals"
+    ]
+  },
+  {
+    "id": "84",
+    "title": "The Little Engine That Could",
+    "author": "Watty Piper",
+    "isbn": "9780399244674",
+    "lexile": "AD630L",
+    "tags": [
+      "Classic",
+      "Inspiring"
+    ]
+  },
+  {
+    "id": "85",
+    "title": "Chicka Chicka Boom Boom",
+    "author": "Bill Martin Jr.",
+    "isbn": "9780671679491",
+    "lexile": "AD180L",
+    "tags": [
+      "Rhyming",
+      "Letters"
+    ]
+  },
+  {
+    "id": "86",
+    "title": "A Chair for My Mother",
+    "author": "Vera B. Williams",
+    "isbn": "9780688040741",
+    "lexile": "AD460L",
+    "tags": [
+      "Family",
+      "Award Winner"
+    ]
+  },
+  {
+    "id": "87",
+    "title": "Horton Hears a Who!",
+    "author": "Dr. Seuss",
+    "isbn": "9780394800783",
+    "lexile": "AD490L",
+    "tags": [
+      "Rhyming",
+      "Classic"
+    ]
+  },
+  {
+    "id": "88",
+    "title": "The Polar Express",
+    "author": "Chris Van Allsburg",
+    "isbn": "9780395389492",
+    "lexile": "AD580L",
+    "tags": [
+      "Winter",
+      "Classic"
+    ]
+  },
+  {
+    "id": "89",
+    "title": "Blueberries for Sal",
+    "author": "Robert McCloskey",
+    "isbn": "9780140501698",
+    "lexile": "AD540L",
+    "tags": [
+      "Classic",
+      "Animals"
+    ]
+  },
+  {
+    "id": "90",
+    "title": "Five Little Monkeys Jumping on the Bed",
+    "author": "Eileen Christelow",
+    "isbn": "9780547896915",
+    "lexile": "AD370L",
+    "tags": [
+      "Rhyming",
+      "Funny"
+    ]
+  },
+  {
+    "id": "91",
+    "title": "Stone Soup",
+    "author": "Marcia Brown",
+    "isbn": "9780689878381",
+    "lexile": "AD570L",
+    "tags": [
+      "Classic",
+      "Folktale"
+    ]
+  },
+  {
+    "id": "92",
+    "title": "Mike Mulligan and His Steam Shovel",
+    "author": "Virginia Lee Burton",
+    "isbn": "9780395259399",
+    "lexile": "AD760L",
+    "tags": [
+      "Classic",
+      "Machines"
+    ]
+  },
+  {
+    "id": "93",
+    "title": "Bread and Jam for Frances",
+    "author": "Russell Hoban",
+    "isbn": "9780064430968",
+    "lexile": "AD470L",
+    "tags": [
+      "Classic",
+      "Food"
+    ]
+  },
+  {
+    "id": "94",
+    "title": "Angelina Ballerina",
+    "author": "Katharine Holabird",
+    "isbn": "9780670882694",
+    "lexile": "AD490L",
+    "tags": [
+      "Dance",
+      "Animals"
+    ]
+  },
+  {
+    "id": "95",
+    "title": "Tacky the Penguin",
+    "author": "Helen Lester",
+    "isbn": "9780395562338",
+    "lexile": "AD500L",
+    "tags": [
+      "Funny",
+      "Animals"
+    ]
+  },
+  {
+    "id": "96",
+    "title": "Owen",
+    "author": "Kevin Henkes",
+    "isbn": "9780688114497",
+    "lexile": "AD480L",
+    "tags": [
+      "Emotions",
+      "Family"
+    ]
+  },
+  {
+    "id": "97",
+    "title": "The Little House",
+    "author": "Virginia Lee Burton",
+    "isbn": "9780395181560",
+    "lexile": "AD610L",
+    "tags": [
+      "Classic",
+      "City Life"
+    ]
+  },
+  {
+    "id": "98",
+    "title": "Miss Rumphius",
+    "author": "Barbara Cooney",
+    "isbn": "9780140505399",
+    "lexile": "AD690L",
+    "tags": [
+      "Classic",
+      "Inspiring"
+    ]
+  },
+  {
+    "id": "99",
+    "title": "The Napping House",
+    "author": "Audrey Wood",
+    "isbn": "9780152567088",
+    "lexile": "AD420L",
+    "tags": [
+      "Funny",
+      "Bedtime"
+    ]
+  },
+  {
+    "id": "100",
+    "title": "Stone Fox",
+    "author": "John Reynolds Gardiner",
+    "isbn": "9780064401326",
+    "lexile": "550L",
+    "tags": [
+      "Adventure",
+      "Chapter Book"
+    ]
+  },
+  {
+    "id": "101",
+    "title": "Cat Kid Comic Club",
+    "author": "Dav Pilkey",
+    "isbn": "9781338712766",
+    "lexile": "GN290L",
+    "tags": [
+      "Graphic Novel",
+      "Funny",
+      "Modern"
+    ]
+  },
+  {
+    "id": "102",
+    "title": "Unicorn Diaries: Bo's Magical New Friend",
+    "author": "Rebecca Elliott",
+    "isbn": "9781338323450",
+    "lexile": "400L",
+    "tags": [
+      "Fantasy",
+      "Series",
+      "Modern"
+    ]
+  },
+  {
+    "id": "103",
+    "title": "Dragon Masters: Rise of the Earth Dragon",
+    "author": "Tracey West",
+    "isbn": "9780545646246",
+    "lexile": "380L",
+    "tags": [
+      "Fantasy",
+      "Series",
+      "Modern"
+    ]
+  },
+  {
+    "id": "104",
+    "title": "The Bad Seed",
+    "author": "Jory John",
+    "isbn": "9780062650689",
+    "lexile": "AD420L",
+    "tags": [
+      "Funny",
+      "Emotions",
+      "Modern"
+    ]
+  },
+  {
+    "id": "105",
+    "title": "The Good Egg",
+    "author": "Jory John",
+    "isbn": "9780062866004",
+    "lexile": "AD400L",
+    "tags": [
+      "Funny",
+      "Emotions",
+      "Modern"
+    ]
+  },
+  {
+    "id": "106",
+    "title": "Hilo: The Boy Who Crashed to Earth",
+    "author": "Judd Winick",
+    "isbn": "9780385386203",
+    "lexile": "GN380L",
+    "tags": [
+      "Graphic Novel",
+      "Sci-Fi",
+      "Modern"
+    ]
+  },
+  {
+    "id": "107",
+    "title": "We Don't Eat Our Classmates",
+    "author": "Ryan T. Higgins",
+    "isbn": "9781484776285",
+    "lexile": "AD430L",
+    "tags": [
+      "Funny",
+      "School",
+      "Modern"
+    ]
+  },
+  {
+    "id": "108",
+    "title": "Isamu Noguchi",
+    "author": "Hana Awakuni",
+    "isbn": "9781452181325",
+    "lexile": "AD600L",
+    "tags": [
+      "Biography",
+      "Art",
+      "Diverse"
+    ]
+  },
+  {
+    "id": "109",
+    "title": "Julian Is a Mermaid",
+    "author": "Jessica Love",
+    "isbn": "9780763690458",
+    "lexile": "AD460L",
+    "tags": [
+      "Award Winner",
+      "Diverse",
+      "Modern"
+    ]
+  },
+  {
+    "id": "110",
+    "title": "Hey, Water!",
+    "author": "Antoinette Portis",
+    "isbn": "9781596439528",
+    "lexile": "AD380L",
+    "tags": [
+      "Science",
+      "Modern"
+    ]
+  },
+  {
+    "id": "111",
+    "title": "The Proudest Blue",
+    "author": "Ibtihaj Muhammad",
+    "isbn": "9780316519007",
+    "lexile": "AD500L",
+    "tags": [
+      "Diverse",
+      "Family",
+      "Modern"
+    ]
+  },
+  {
+    "id": "112",
+    "title": "Eyes That Kiss in the Corners",
+    "author": "Joanna Ho",
+    "isbn": "9780062915627",
+    "lexile": "AD530L",
+    "tags": [
+      "Diverse",
+      "Inspiring",
+      "Modern"
+    ]
+  },
+  {
+    "id": "113",
+    "title": "Fry Bread: A Native American Family Story",
+    "author": "Kevin Noble Maillard",
+    "isbn": "9781250161345",
+    "lexile": "AD600L",
+    "tags": [
+      "Diverse",
+      "Food",
+      "Award Winner"
+    ]
+  },
+  {
+    "id": "114",
+    "title": "The Pigeon HAS to Go to School!",
+    "author": "Mo Willems",
+    "isbn": "9781368025942",
+    "lexile": "AD300L",
+    "tags": [
+      "Funny",
+      "School",
+      "Modern"
+    ]
+  },
+  {
+    "id": "115",
+    "title": "Dragons in a Bag",
+    "author": "Zetta Elliott",
+    "isbn": "9781524770860",
+    "lexile": "470L",
+    "tags": [
+      "Fantasy",
+      "Diverse",
+      "Modern"
+    ]
+  },
+  {
+    "id": "116",
+    "title": "Ada Twist, Scientist",
+    "author": "Andrea Beaty",
+    "isbn": "9781419721373",
+    "lexile": "AD630L",
+    "tags": [
+      "STEM",
+      "Inspiring",
+      "Modern"
+    ]
+  },
+  {
+    "id": "117",
+    "title": "Sofia Valdez, Future Prez",
+    "author": "Andrea Beaty",
+    "isbn": "9781419741203",
+    "lexile": "AD590L",
+    "tags": [
+      "Inspiring",
+      "Modern"
+    ]
+  },
+  {
+    "id": "118",
+    "title": "The Rabbit Listened",
+    "author": "Cori Doerrfeld",
+    "isbn": "9780735229235",
+    "lexile": "AD410L",
+    "tags": [
+      "Emotions",
+      "Modern"
+    ]
+  },
+  {
+    "id": "119",
+    "title": "A Is for Awesome!: 23 Iconic Women Who Changed the World",
+    "author": "Eva Chen",
+    "isbn": "9781250316820",
+    "lexile": "AD520L",
+    "tags": [
+      "Biography",
+      "Inspiring",
+      "Modern"
+    ]
+  },
+  {
+    "id": "120",
+    "title": "Bob Books Set 1: Beginning Readers",
+    "author": "Bobby Lynn Maslen",
+    "isbn": "9780439845007",
+    "lexile": "BR",
+    "tags": [
+      "Beginner",
+      "Phonics"
+    ]
+  },
+  {
+    "id": "121",
+    "title": "Eerie Elementary: The School Is Alive!",
+    "author": "Jack Chabert",
+    "isbn": "9780545623209",
+    "lexile": "330L",
+    "tags": [
+      "Spooky",
+      "Series",
+      "Modern"
+    ]
+  },
+  {
+    "id": "122",
+    "title": "Diary of a Pug: Pug Blasts Off",
+    "author": "Kyla May",
+    "isbn": "9781338323405",
+    "lexile": "GN320L",
+    "tags": [
+      "Graphic Novel",
+      "Funny",
+      "Modern"
+    ]
+  },
+  {
+    "id": "123",
+    "title": "Yasmin the Fashionista",
+    "author": "Saadia Faruqi",
+    "isbn": "9781515838685",
+    "lexile": "350L",
+    "tags": [
+      "Series",
+      "Diverse",
+      "Modern"
+    ]
+  },
+  {
+    "id": "124",
+    "title": "Balloons Over Broadway",
+    "author": "Melissa Sweet",
+    "isbn": "9780547199450",
+    "lexile": "AD780L",
+    "tags": [
+      "Biography",
+      "Art"
+    ]
+  },
+  {
+    "id": "125",
+    "title": "Drawn Together",
+    "author": "Minh L\u00ea",
+    "isbn": "9781368000109",
+    "lexile": "AD490L",
+    "tags": [
+      "Family",
+      "Diverse",
+      "Modern"
+    ]
+  },
+  {
+    "id": "126",
+    "title": "Hair Love",
+    "author": "Matthew A. Cherry",
+    "isbn": "9780525553366",
+    "lexile": "AD460L",
+    "tags": [
+      "Family",
+      "Diverse",
+      "Award Winner"
+    ]
+  },
+  {
+    "id": "127",
+    "title": "All Are Welcome",
+    "author": "Alexandra Penfold",
+    "isbn": "9781524738181",
+    "lexile": "AD360L",
+    "tags": [
+      "School",
+      "Diverse",
+      "Modern"
+    ]
+  },
+  {
+    "id": "128",
+    "title": "The Notebook of Doom: Rise of the Balloon Goons",
+    "author": "Troy Cummings",
+    "isbn": "9780545552486",
+    "lexile": "340L",
+    "tags": [
+      "Adventure",
+      "Series",
+      "Modern"
+    ]
+  },
+  {
+    "id": "129",
+    "title": "Noodleheads See the Future",
+    "author": "Tedd Arnold",
+    "isbn": "9780823435722",
+    "lexile": "330L",
+    "tags": [
+      "Funny",
+      "Series"
+    ]
+  },
+  {
+    "id": "130",
+    "title": "Mae Among the Stars",
+    "author": "Roda Ahmed",
+    "isbn": "9780062651730",
+    "lexile": "AD550L",
+    "tags": [
+      "Biography",
+      "STEM",
+      "Diverse"
+    ]
+  },
+  {
+    "id": "131",
+    "title": "Perfectly Norman",
+    "author": "Tom Percival",
+    "isbn": "9781547600175",
+    "lexile": "AD450L",
+    "tags": [
+      "Emotions",
+      "Modern"
+    ]
+  },
+  {
+    "id": "132",
+    "title": "The Invisible Boy",
+    "author": "Trudy Ludwig",
+    "isbn": "9780375968860",
+    "lexile": "AD480L",
+    "tags": [
+      "School",
+      "Emotions"
+    ]
+  },
+  {
+    "id": "133",
+    "title": "Thunder Boy Jr.",
+    "author": "Sherman Alexie",
+    "isbn": "9780316013727",
+    "lexile": "AD520L",
+    "tags": [
+      "Diverse",
+      "Family"
+    ]
+  },
+  {
+    "id": "134",
+    "title": "The Adventures of Beekle",
+    "author": "Dan Santat",
+    "isbn": "9780316199988",
+    "lexile": "AD460L",
+    "tags": [
+      "Fantasy",
+      "Award Winner"
+    ]
+  },
+  {
+    "id": "136",
+    "title": "Jabari Jumps",
+    "author": "Gaia Cornwall",
+    "isbn": "9780763690483",
+    "lexile": "AD420L",
+    "tags": [
+      "Emotions",
+      "Diverse",
+      "Modern"
+    ]
+  },
+  {
+    "id": "137",
+    "title": "The Name Jar",
+    "author": "Yangsook Choi",
+    "isbn": "9780440417996",
+    "lexile": "AD510L",
+    "tags": [
+      "School",
+      "Diverse"
+    ]
+  },
+  {
+    "id": "138",
+    "title": "Rocket Writes a Story",
+    "author": "Tad Hills",
+    "isbn": "9780385373814",
+    "lexile": "AD380L",
+    "tags": [
+      "Animals",
+      "Writing"
+    ]
+  },
+  {
+    "id": "139",
+    "title": "The Undefeated",
+    "author": "Kwame Alexander",
+    "isbn": "9781328780836",
+    "lexile": "NP",
+    "tags": [
+      "Poetry",
+      "Award Winner",
+      "Diverse"
+    ]
+  },
+  {
+    "id": "140",
+    "title": "The Word Collector",
+    "author": "Peter H. Reynolds",
+    "isbn": "9781682630655",
+    "lexile": "AD490L",
+    "tags": [
+      "Inspiring",
+      "Modern"
+    ]
+  },
+  {
+    "id": "141",
+    "title": "Love in the Library",
+    "author": "Maggie Tokuda-Hall",
+    "isbn": "9781536207514",
+    "lexile": "AD550L",
+    "tags": [
+      "History",
+      "Diverse",
+      "Modern"
+    ]
+  },
+  {
+    "id": "142",
+    "title": "Ava Lin, Super Duper Happy",
+    "author": "Vicky Fang",
+    "isbn": "9780062995988",
+    "lexile": "370L",
+    "tags": [
+      "Series",
+      "Diverse",
+      "Modern"
+    ]
+  },
+  {
+    "id": "143",
+    "title": "Stand Up, Yumi Chung!",
+    "author": "Jessica Kim",
+    "isbn": "9781984815965",
+    "lexile": "460L",
+    "tags": [
+      "Funny",
+      "Diverse",
+      "Modern"
+    ]
+  },
+  {
+    "id": "144",
+    "title": "A Place Inside of Me",
+    "author": "Zetta Elliott",
+    "isbn": "9781338574524",
+    "lexile": "AD480L",
+    "tags": [
+      "Poetry",
+      "Emotions",
+      "Diverse"
+    ]
+  },
+  {
+    "id": "145",
+    "title": "Saturday",
+    "author": "Oge Mora",
+    "isbn": "9780316431279",
+    "lexile": "AD420L",
+    "tags": [
+      "Family",
+      "Diverse",
+      "Award Winner"
+    ]
+  },
+  {
+    "id": "146",
+    "title": "I Am Enough",
+    "author": "Grace Byers",
+    "isbn": "9780062667120",
+    "lexile": "AD380L",
+    "tags": [
+      "Inspiring",
+      "Diverse",
+      "Modern"
+    ]
+  },
+  {
+    "id": "147",
+    "title": "Sulwe",
+    "author": "Lupita Nyong'o",
+    "isbn": "9781534425361",
+    "lexile": "AD530L",
+    "tags": [
+      "Self-Esteem",
+      "Diverse",
+      "Modern"
+    ]
+  },
+  {
+    "id": "148",
+    "title": "Dreamers",
+    "author": "Yuyi Morales",
+    "isbn": "9780823440559",
+    "lexile": "AD490L",
+    "tags": [
+      "Biography",
+      "Diverse",
+      "Award Winner"
+    ]
+  },
+  {
+    "id": "149",
+    "title": "The Barnabus Project",
+    "author": "The Fan Brothers",
+    "isbn": "9781773214368",
+    "lexile": "GN430L",
+    "tags": [
+      "Graphic Novel",
+      "Fantasy",
+      "Modern"
+    ]
+  },
+  {
+    "id": "150",
+    "title": "Sam and Dave Dig a Hole",
+    "author": "Mac Barnett",
+    "isbn": "9780763662295",
+    "lexile": "AD360L",
+    "tags": [
+      "Funny",
+      "Adventure"
+    ]
+  },
+  {
+    "id": "151",
+    "title": "Extra Yarn",
+    "author": "Mac Barnett",
+    "isbn": "9780061953385",
+    "lexile": "AD390L",
+    "tags": [
+      "Fantasy",
+      "Award Winner"
+    ]
+  },
+  {
+    "id": "152",
+    "title": "Wolf in the Snow",
+    "author": "Matthew Cordell",
+    "isbn": "9781250076366",
+    "lexile": "BR",
+    "tags": [
+      "Wordless",
+      "Animals",
+      "Award Winner"
+    ]
+  },
+  {
+    "id": "153",
+    "title": "The Day the Crayons Quit",
+    "author": "Drew Daywalt",
+    "isbn": "9780399255373",
+    "lexile": "AD610L",
+    "tags": [
+      "Funny",
+      "Art"
+    ]
+  },
+  {
+    "id": "154",
+    "title": "The Day the Crayons Came Home",
+    "author": "Drew Daywalt",
+    "isbn": "9780399172755",
+    "lexile": "AD570L",
+    "tags": [
+      "Funny",
+      "Art"
+    ]
+  },
+  {
+    "id": "155",
+    "title": "The Book with No Pictures",
+    "author": "B.J. Novak",
+    "isbn": "9780803741713",
+    "lexile": "AD180L",
+    "tags": [
+      "Funny",
+      "Interactive"
+    ]
+  },
+  {
+    "id": "156",
+    "title": "Bear Has a Story to Tell",
+    "author": "Philip C. Stead",
+    "isbn": "9781596437456",
+    "lexile": "AD420L",
+    "tags": [
+      "Animals",
+      "Friendship"
+    ]
+  },
+  {
+    "id": "157",
+    "title": "A Sick Day for Amos McGee",
+    "author": "Philip C. Stead",
+    "isbn": "9781596434028",
+    "lexile": "AD490L",
+    "tags": [
+      "Animals",
+      "Award Winner"
+    ]
+  },
+  {
+    "id": "158",
+    "title": "This Is Not My Hat",
+    "author": "Jon Klassen",
+    "isbn": "9780763655990",
+    "lexile": "AD230L",
+    "tags": [
+      "Funny",
+      "Award Winner"
+    ]
+  },
+  {
+    "id": "159",
+    "title": "I Want My Hat Back",
+    "author": "Jon Klassen",
+    "isbn": "9780763655983",
+    "lexile": "AD210L",
+    "tags": [
+      "Funny",
+      "Animals"
+    ]
+  },
+  {
+    "id": "160",
+    "title": "Interrupting Chicken",
+    "author": "David Ezra Stein",
+    "isbn": "9780763641689",
+    "lexile": "AD460L",
+    "tags": [
+      "Funny",
+      "Bedtime"
+    ]
+  },
+  {
+    "id": "161",
+    "title": "That Is Not a Good Idea!",
+    "author": "Mo Willems",
+    "isbn": "9780062203090",
+    "lexile": "AD290L",
+    "tags": [
+      "Funny",
+      "Animals"
+    ]
+  },
+  {
+    "id": "162",
+    "title": "Not Quite Narwhal",
+    "author": "Jessie Sima",
+    "isbn": "9781481469197",
+    "lexile": "AD440L",
+    "tags": [
+      "Animals",
+      "Fantasy"
+    ]
+  },
+  {
+    "id": "163",
+    "title": "Please, Mr. Panda",
+    "author": "Steve Antony",
+    "isbn": "9780545788922",
+    "lexile": "AD250L",
+    "tags": [
+      "Manners",
+      "Animals"
+    ]
+  },
+  {
+    "id": "164",
+    "title": "Little Blue Truck",
+    "author": "Alice Schertle",
+    "isbn": "9780152056612",
+    "lexile": "AD230L",
+    "tags": [
+      "Rhyming",
+      "Animals"
+    ]
+  },
+  {
+    "id": "165",
+    "title": "Duck on a Bike",
+    "author": "David Shannon",
+    "isbn": "9780439050234",
+    "lexile": "AD380L",
+    "tags": [
+      "Funny",
+      "Animals"
+    ]
+  },
+  {
+    "id": "166",
+    "title": "No, David!",
+    "author": "David Shannon",
+    "isbn": "9780590930024",
+    "lexile": "AD210L",
+    "tags": [
+      "Funny",
+      "Classic"
+    ]
+  },
+  {
+    "id": "167",
+    "title": "Shark vs. Train",
+    "author": "Chris Barton",
+    "isbn": "9780316007627",
+    "lexile": "AD370L",
+    "tags": [
+      "Funny",
+      "Competition"
+    ]
+  },
+  {
+    "id": "168",
+    "title": "The Watermelon Seed",
+    "author": "Greg Pizzoli",
+    "isbn": "9781423171683",
+    "lexile": "AD330L",
+    "tags": [
+      "Funny",
+      "Food"
+    ]
+  },
+  {
+    "id": "169",
+    "title": "Llama Llama Mad at Mama",
+    "author": "Anna Dewdney",
+    "isbn": "9780670062409",
+    "lexile": "AD470L",
+    "tags": [
+      "Emotions",
+      "Rhyming"
+    ]
+  },
+  {
+    "id": "170",
+    "title": "Should I Share My Ice Cream?",
+    "author": "Mo Willems",
+    "isbn": "9781423143437",
+    "lexile": "BR",
+    "tags": [
+      "Funny",
+      "Friendship",
+      "Beginner"
+    ]
+  },
+  {
+    "id": "171",
+    "title": "Erno Rubik and His Magic Cube",
+    "author": "Kerry O'Malley Cerra",
+    "isbn": "9781633221581",
+    "lexile": "600L",
+    "tags": [
+      "MV Library",
+      "Modern"
+    ],
+    "coverImage": "/covers/erno-rubik-and-his-magic-cube.jpg"
+  },
+  {
+    "id": "172",
+    "title": "I'm Trying to Love Math",
+    "author": "Bethany Barton",
+    "isbn": "9780593112892",
+    "lexile": "AD520L",
+    "tags": [
+      "MV Library",
+      "Modern"
+    ],
+    "coverImage": "/covers/im-trying-to-love-math.jpg"
+  },
+  {
+    "id": "173",
+    "title": "Unicorn and Yeti: Sparkly New Friends",
+    "author": "Heather Ayris Burnell",
+    "isbn": "9780735231399",
+    "lexile": "340L",
+    "tags": [
+      "MV Library",
+      "Modern"
+    ],
+    "coverImage": "/covers/unicorn-and-yeti-sparkly-new-friends.jpg"
+  },
+  {
+    "id": "174",
+    "title": "Squeak! 100 Fun Facts About Hamsters",
+    "author": "Sarah L. Thomson",
+    "isbn": "9781426334283",
+    "lexile": "700L",
+    "tags": [
+      "MV Library",
+      "Modern"
+    ],
+    "coverImage": "/covers/squeak-100-fun-facts-about-hamsters.jpg"
+  },
+  {
+    "id": "175",
+    "title": "Libby Loves Science: States of Matter",
+    "author": "Kimberly Derting",
+    "isbn": "9780062945945",
+    "lexile": "360L",
+    "tags": [
+      "MV Library",
+      "Modern"
+    ],
+    "coverImage": "/covers/libby-loves-science-states-of-matter.jpg"
+  },
+  {
+    "id": "176",
+    "title": "I Want to Be an Engineer",
+    "author": "Dan Green",
+    "isbn": "9781454932024",
+    "lexile": "AD590L",
+    "tags": [
+      "MV Library",
+      "Modern"
+    ],
+    "coverImage": "/covers/i-want-to-be-an-engineer.jpg"
+  },
+  {
+    "id": "177",
+    "title": "Beak & Ally: Unlikely Friends",
+    "author": "Norm Feuti",
+    "isbn": "9780062985248",
+    "lexile": "GN240L",
+    "tags": [
+      "MV Library",
+      "Modern"
+    ],
+    "coverImage": "/covers/beak-and-ally-unlikely-friends.jpg"
+  },
+  {
+    "id": "178",
+    "title": "Otter: The Best Job Ever!",
+    "author": "Sam Garton",
+    "isbn": "9780062366467",
+    "lexile": "BR",
+    "tags": [
+      "MV Library",
+      "Modern"
+    ],
+    "coverImage": "/covers/otter-the-best-job-ever.jpg"
+  },
+  {
+    "id": "179",
+    "title": "Gigi and Ojiji: What's in a Name?",
+    "author": "Melissa Iwai",
+    "isbn": "9781250750907",
+    "lexile": "AD420L",
+    "tags": [
+      "MV Library",
+      "Modern"
+    ],
+    "coverImage": "/covers/gigi-and-ojiji-whats-in-a-name.jpg"
+  },
+  {
+    "id": "180",
+    "title": "Bear and Bird: The Stars and Other Stories",
+    "author": "Jarvis",
+    "isbn": "9780763696832",
+    "lexile": "330L",
+    "tags": [
+      "MV Library",
+      "Modern"
+    ],
+    "coverImage": "/covers/bear-and-bird-the-stars-and-other-stories.jpg"
+  },
+  {
+    "id": "181",
+    "title": "See the Cat: Three Stories About a Dog",
+    "author": "David LaRochelle",
+    "isbn": "9780763690496",
+    "lexile": "BR",
+    "tags": [
+      "MV Library",
+      "Modern"
+    ],
+    "coverImage": "/covers/see-the-cat-three-stories-about-a-dog.jpg"
+  },
+  {
+    "id": "182",
+    "title": "Everything Awesome About Space",
+    "author": "Mike Lowery",
+    "isbn": "9781250227218",
+    "lexile": "AD650L",
+    "tags": [
+      "MV Library",
+      "Modern"
+    ],
+    "coverImage": "/covers/everything-awesome-about-space.jpg"
+  },
+  {
+    "id": "183",
+    "title": "Dryg and Rex: Forever Friends",
+    "author": "Molly Idle",
+    "isbn": "9780593108826",
+    "lexile": "GN260L",
+    "tags": [
+      "MV Library",
+      "Modern"
+    ],
+    "coverImage": "/covers/dryg-and-rex-forever-friends.jpg"
+  },
+  {
+    "id": "184",
+    "title": "Ty's Travels: Showtime!",
+    "author": "Kelly Starling Lyons",
+    "isbn": "9781534488304",
+    "lexile": "380L",
+    "tags": [
+      "MV Library",
+      "Modern"
+    ],
+    "coverImage": "/covers/tys-travels-showtime.jpg"
+  },
+  {
+    "id": "185",
+    "title": "Owl and Penguin",
+    "author": "Vikram Madan",
+    "isbn": "9780525555018",
+    "lexile": "BR",
+    "tags": [
+      "MV Library",
+      "Modern"
+    ],
+    "coverImage": "/covers/owl-and-penguin.jpg"
+  },
+  {
+    "id": "186",
+    "title": "What If You Had an Animal Tail?",
+    "author": "Sandra Markle",
+    "isbn": "9780545859356",
+    "lexile": "620L",
+    "tags": [
+      "MV Library",
+      "Modern"
+    ],
+    "coverImage": "/covers/what-if-you-had-an-animal-tail.jpg"
+  },
+  {
+    "id": "187",
+    "title": "The Newest Princess",
+    "author": "Jess M. Brallier",
+    "isbn": "9781338618150",
+    "lexile": "BR",
+    "tags": [
+      "MV Library",
+      "Modern"
+    ],
+    "coverImage": "/covers/the-newest-princess.jpg"
+  },
+  {
+    "id": "188",
+    "title": "Reina Ramos Works It Out",
+    "author": "Emma Otheguy",
+    "isbn": "9781338666328",
+    "lexile": "450L",
+    "tags": [
+      "MV Library",
+      "Modern"
+    ],
+    "coverImage": "/covers/reina-ramos-works-it-out.jpg"
+  },
+  {
+    "id": "189",
+    "title": "China",
+    "author": "Mary Meinking",
+    "isbn": "9781644661031",
+    "lexile": "630L",
+    "tags": [
+      "MV Library",
+      "Modern"
+    ],
+    "coverImage": "/covers/china.jpg"
+  },
+  {
+    "id": "190",
+    "title": "Truth or Lie: Dogs!",
+    "author": "Erica S. Perl",
+    "isbn": "9781426339349",
+    "lexile": "530L",
+    "tags": [
+      "MV Library",
+      "Modern"
+    ],
+    "coverImage": "/covers/truth-or-lie-dogs.jpg"
+  },
+  {
+    "id": "191",
+    "title": "Ricky Ricotta's Mighty Robot",
+    "author": "Dav Pilkey",
+    "isbn": "9780439376426",
+    "lexile": "310L",
+    "tags": [
+      "MV Library",
+      "Modern"
+    ],
+    "coverImage": "/covers/ricky-ricottas-mighty-robot.jpg"
+  },
+  {
+    "id": "192",
+    "title": "Facts vs. Opinions vs. Robots",
+    "author": "Michael Rex",
+    "isbn": "9780593128459",
+    "lexile": "AD430L",
+    "tags": [
+      "MV Library",
+      "Modern"
+    ],
+    "coverImage": "/covers/facts-vs-opinions-vs-robots.jpg"
+  },
+  {
+    "id": "193",
+    "title": "Hornbeam All In",
+    "author": "Joshua Farman Schuster",
+    "isbn": "9781338634402",
+    "lexile": "200L",
+    "tags": [
+      "MV Library",
+      "Modern"
+    ],
+    "coverImage": "/covers/hornbeam-all-in.jpg"
+  },
+  {
+    "id": "194",
+    "title": "Mittens",
+    "author": "Lola M. Schaefer",
+    "isbn": "9781250766977",
+    "lexile": "BR",
+    "tags": [
+      "MV Library",
+      "Modern"
+    ],
+    "coverImage": "/covers/mittens.jpg"
+  },
+  {
+    "id": "195",
+    "title": "Fox the Tiger",
+    "author": "Corey R. Tabor",
+    "isbn": "9780062398802",
+    "lexile": "AD280L",
+    "tags": [
+      "MV Library",
+      "Modern"
+    ],
+    "coverImage": "/covers/fox-the-tiger.jpg"
+  },
+  {
+    "id": "196",
+    "title": "Mel Fell",
+    "author": "Corey R. Tabor",
+    "isbn": "9780062878397",
+    "lexile": "BR",
+    "tags": [
+      "MV Library",
+      "Modern"
+    ],
+    "coverImage": "/covers/mel-fell.jpg"
+  },
+  {
+    "id": "197",
+    "title": "Hooray for Amanda and Her Alligator!",
+    "author": "Mo Willems",
+    "isbn": "9780062952776",
+    "lexile": "BR",
+    "tags": [
+      "MV Library",
+      "Modern"
+    ],
+    "coverImage": "/covers/hooray-for-amanda-and-her-alligator.jpg"
+  },
+  {
+    "id": "198",
+    "title": "Worm and Caterpillar Are Friends",
+    "author": "Kaz Windness",
+    "isbn": "9781534443440",
+    "lexile": "BR",
+    "tags": [
+      "MV Library",
+      "Modern"
+    ],
+    "coverImage": "/covers/worm-and-caterpillar-are-friends.jpg"
+  },
+  {
+    "id": "199",
+    "title": "I Really Want to Be First!",
+    "author": "Jane Chapman",
+    "isbn": "9781680105926",
+    "lexile": "AD350L",
+    "tags": [
+      "MV Library",
+      "Modern"
+    ],
+    "coverImage": "/covers/i-really-want-to-be-first.jpg"
+  },
+  {
+    "id": "200",
+    "title": "The World Belonged to Us",
+    "author": "Jacqueline Woodson",
+    "isbn": "9780399545498",
+    "lexile": "AD560L",
+    "description": "There\u2019s a world of summer adventure in store for the kids in Brooklyn in this vibrant and joyful picture book. Celebrating freedom and adventure, the children in this story turn the streets into their playground, chase ice cream trucks, and believe everything is possible \u2013 until it\u2019s time for dinner. It\u2019s an inspiring book for children and a nostalgic story for parents and teachers.",
+    "tags": [
+      "Diverse",
+      "K-12 Reading List"
+    ],
+    "coverImage": "/covers/k12-the-world-belonged-to-us.jpg"
+  },
+  {
+    "id": "201",
+    "title": "Blue Sky White Stars",
+    "author": "Sarvinder Naberhaus",
+    "isbn": "9780451481641",
+    "lexile": "AD450L",
+    "description": "Sarvinder Naberhaus paints a vivid portrait of America in this poignant illustrated children\u2019s book. With short, poetic, and bilingual prose, she explores the nation\u2019s history and values through iconic imagery. The American flag, the enduring spirit, and the diverse tapestry of culture that define the United States are all brought to life for young readers.",
+    "tags": [
+      "Poetry",
+      "K-12 Reading List"
+    ],
+    "coverImage": "/covers/k12-blue-sky-white-stars.jpg"
+  },
+  {
+    "id": "202",
+    "title": "The Book Hog",
+    "author": "Greg Pizzoli",
+    "isbn": "9781368036894",
+    "lexile": "AD440L",
+    "description": "The book hog adores books \u2013 any books. He feels the pages with his hooves. He sniffs the pages and loves the pictures. However, he has a secret that mustn\u2019t be told. He can\u2019t read! Follow his journey to the library for story time and the joy when he learns to read. A great picture book to encourage younger readers.",
+    "tags": [
+      "Picture book",
+      "K-12 Reading List"
+    ],
+    "coverImage": "/covers/k12-the-book-hog.jpg"
+  },
+  {
+    "id": "203",
+    "title": "The True Story of the Three Little Pigs",
+    "author": "Jon Scieszka",
+    "isbn": "9780140544510",
+    "lexile": "AD610L",
+    "description": "The traditional tale of the Three Little Pigs is retold by the Wolf, and it wasn\u2019t his fault. A very funny reimagining of this story with great illustrations. A perfect book for grade 1 group and shared reading.",
+    "tags": [
+      "Picture book",
+      "K-12 Reading List"
+    ],
+    "coverImage": "/covers/k12-the-true-story-of-the-three-little-pigs.jpg"
+  },
+  {
+    "id": "204",
+    "title": "Freckle Juice",
+    "author": "Judy Blume",
+    "isbn": "9781481411028",
+    "lexile": "330L",
+    "description": "Andrew\u2019s best friend Nicky has freckles, and Andrew wants them so badly he\u2019ll do anything to get some. Then Sharon offers him a secret recipe to grow freckles.",
+    "tags": [
+      "Fantasy",
+      "K-12 Reading List"
+    ],
+    "coverImage": "/covers/k12-freckle-juice.jpg"
+  },
+  {
+    "id": "205",
+    "title": "The Boy Who Loved Words",
+    "author": "Roni Schotter",
+    "isbn": "9780375836015",
+    "lexile": "AD520L",
+    "description": "Selig doesn\u2019t collect action figures or trading cards \u2013 he collects words. Words which make him giggle or words which sound nice to say. An excellent book to spark your child\u2019s interest in language.",
+    "tags": [
+      "Picture book",
+      "K-12 Reading List"
+    ],
+    "coverImage": "/covers/k12-the-boy-who-loved-words.jpg"
+  },
+  {
+    "id": "206",
+    "title": "There is a Bird on Your Head!",
+    "author": "Mo Willems",
+    "isbn": "9781423106869",
+    "lexile": "BR",
+    "description": "Gerald the Elephant gets extremely irritated by a series of birds that camp out on his head. Can his friend Piggie help him out?",
+    "tags": [
+      "Classic",
+      "K-12 Reading List"
+    ],
+    "coverImage": "/covers/k12-there-is-a-bird-on-your-head.jpg"
+  },
+  {
+    "id": "207",
+    "title": "Ramona the Pest",
+    "author": "Beverly Cleary",
+    "isbn": "9780380709540",
+    "lexile": "860L",
+    "description": "Ramona is excited to start school for the first time. But things don\u2019t go to plan and she\u2019s in trouble from the first moment. Will she work out what she\u2019s doing wrong? A thought-provoking 1st grade reading book.",
+    "tags": [
+      "School story",
+      "K-12 Reading List"
+    ],
+    "coverImage": "/covers/k12-ramona-the-pest.jpg"
+  },
+  {
+    "id": "208",
+    "title": "Diary of a Wombat",
+    "author": "Jackie French",
+    "isbn": "9780547076690",
+    "lexile": "AD500L",
+    "description": "The daily life of a wombat is not at all what you might expect. A very funny look at life from a different point of view. A funny 1st grade reading picture book.",
+    "tags": [
+      "Animal story",
+      "K-12 Reading List"
+    ],
+    "coverImage": "/covers/k12-diary-of-a-wombat.jpg"
+  },
+  {
+    "id": "209",
+    "title": "Hot Hot Hot",
+    "author": "Neal Layton",
+    "isbn": "9780763621483",
+    "lexile": "AD420L",
+    "description": "Oscar and Arabella don\u2019t like summer. Heat, flies, sweat, insects are not for them \u2013 because they are woolly mammoths. But then they come up with a very clever idea.",
+    "tags": [
+      "Animal story",
+      "K-12 Reading List"
+    ],
+    "coverImage": "/covers/k12-hot-hot-hot.jpg"
+  },
+  {
+    "id": "210",
+    "title": "Tuesday",
+    "author": "David Wiesner",
+    "isbn": "9780395870822",
+    "lexile": "BR",
+    "description": "A stunningly imaginative picture book with strange and fantastical images including frogs on flying lily pads. There are no words in this book \u2013 which makes it ideal for helping your child tell the story and develop a rich and descriptive use of language. An ideal first grade reading book to share.",
+    "tags": [
+      "Picture book | Fantasy",
+      "K-12 Reading List"
+    ],
+    "coverImage": "/covers/k12-tuesday.jpg"
+  },
+  {
+    "id": "211",
+    "title": "365 Penguins",
+    "author": "Jean Luc Fromental",
+    "isbn": "9781419729171",
+    "lexile": "AD520L",
+    "description": "Imagine you wake up each day to find a penguin delivered to your front door. Who is sending them, what should you do with them, and where do you put them? A great picture story for helping 1st grade children to count and use their imagination.",
+    "tags": [
+      "Animal story",
+      "K-12 Reading List"
+    ],
+    "coverImage": "/covers/k12-365-penguins.jpg"
+  },
+  {
+    "id": "212",
+    "title": "Diary of a Worm",
+    "author": "Doreen Cronin",
+    "isbn": "9780060001506",
+    "lexile": "AD540L",
+    "description": "A funny story about life from the point of view of a worm. Homework can be eaten, baths are not necessary and mud is fine everywhere. But there\u2019s one thing the worm wishes he could do.",
+    "tags": [
+      "Animal story | Humor",
+      "K-12 Reading List"
+    ],
+    "coverImage": "/covers/k12-diary-of-a-worm.jpg"
+  },
+  {
+    "id": "213",
+    "title": "Uneversaurus",
+    "author": "Aidan Potts",
+    "isbn": "9780385751209",
+    "lexile": "AD600L",
+    "description": "A clever book all about dinosaurs which encourages children to imagine for themselves what these creatures looked, like, sounded like and felt like.",
+    "tags": [
+      "Narrative non fiction",
+      "K-12 Reading List"
+    ],
+    "coverImage": "/covers/k12-uneversaurus.jpg"
+  },
+  {
+    "id": "214",
+    "title": "Water Boy",
+    "author": "David McPhail",
+    "isbn": "9780810917842",
+    "lexile": "AD490L",
+    "description": "A moving fantasy story. When a teacher tells a boy that people are mostly made out of water, he begins to panic. What if he dissolves? What if he goes down the plughole at bath time? But when he deals with fears, amazing and unexpected things start to happen. A great book for 1st grade children.",
+    "tags": [
+      "Fantasy",
+      "K-12 Reading List"
+    ],
+    "coverImage": "/covers/k12-water-boy.jpg"
+  },
+  {
+    "id": "215",
+    "title": "The Dot",
+    "author": "Peter H Reynolds",
+    "isbn": "9780763619619",
+    "lexile": "AD420L",
+    "description": "Vashti sits through art class looking at her blank piece of paper. She hates art. But her teacher tells her, \u201cJust make a mark and see where it takes you.\u201d A world of creativity is opened up in this memorable story about overcoming a fear of failure.",
+    "tags": [
+      "Classic",
+      "K-12 Reading List"
+    ],
+    "coverImage": "/covers/k12-the-dot.jpg"
+  },
+  {
+    "id": "216",
+    "title": "When Sheep Cannot Sleep",
+    "author": "Satoshi Kitamura",
+    "isbn": "9780374483593",
+    "lexile": "AD420L",
+    "description": "A story about a sheep who goes to extraordinary lengths to get to sleep, by going outside and counting everything he meets. A great story for developing math and memory skills.",
+    "tags": [
+      "Animal story",
+      "K-12 Reading List"
+    ],
+    "coverImage": "/covers/k12-when-sheep-cannot-sleep.jpg"
+  },
+  {
+    "id": "217",
+    "title": "When Will I Read?",
+    "author": "Miriam Cohen",
+    "isbn": "9780440900382",
+    "lexile": "AD350L",
+    "description": "Ideal for children struggling to read in first grade. A heartwarming story about how different people learn in different ways.",
+    "tags": [
+      "School story",
+      "K-12 Reading List"
+    ],
+    "coverImage": "/covers/k12-when-will-i-read.jpg"
+  },
+  {
+    "id": "218",
+    "title": "And I Mean It, Stanley",
+    "author": "Crosby Bonsall",
+    "isbn": "9780064440462",
+    "lexile": "160L",
+    "description": "A fun and madcap story about a girl and her pet and the imaginative ideas she has to build something from nothing. This is an ideal first grade book for more confident readers.",
+    "tags": [
+      "Family story",
+      "K-12 Reading List"
+    ],
+    "coverImage": "/covers/k12-and-i-mean-it-stanley.jpg"
+  },
+  {
+    "id": "219",
+    "title": "The Grouchy Ladybug",
+    "author": "Eric Carle",
+    "isbn": "9780064434508",
+    "lexile": "AD470L",
+    "description": "An amazing book about a grumpy and rude ladybug who refuses to say please or thank you or be polite in any way. Great collage illustrations from the author of The Very Hungry Caterpillar.",
+    "tags": [
+      "Animal story | Classic",
+      "K-12 Reading List"
+    ],
+    "coverImage": "/covers/k12-the-grouchy-ladybug.jpg"
+  },
+  {
+    "id": "220",
+    "title": "Sheep in a Jeep",
+    "author": "Nancy Shaw",
+    "isbn": "9780547338057",
+    "lexile": "AD210L",
+    "description": "A group of sheep decides to see if they can all fit into a Jeep. Then they think of all sorts of unlikely places they can drive to, and nothing quite goes to plan. A very funny book ideal for more reluctant readers.",
+    "tags": [
+      "Humor | Animal story",
+      "K-12 Reading List"
+    ],
+    "coverImage": "/covers/k12-sheep-in-a-jeep.jpg"
+  },
+  {
+    "id": "221",
+    "title": "Morris the Moose",
+    "author": "Bernard Wiseman",
+    "isbn": "9780064440455",
+    "lexile": "190L",
+    "description": "Morris, a toothy-grinned Moose, encounters some strange new animals for the first time and assumes each one is a strange kind of moose. But the Cow has other ideas. A story of unlikely friendship.",
+    "tags": [
+      "Animal story | Humor",
+      "K-12 Reading List"
+    ],
+    "coverImage": "/covers/k12-morris-the-moose.jpg"
+  },
+  {
+    "id": "222",
+    "title": "How do Dinosaurs Say Goodnight?",
+    "author": "Jane Yolen",
+    "isbn": "9780590316811",
+    "lexile": "AD430L",
+    "description": "A fly on the wall story of the life of dinosaurs, including dinosaur bedtimes, dinosaur dinner, and dinosaur tantrums. Great pictures.",
+    "tags": [
+      "Bedtime story",
+      "K-12 Reading List"
+    ],
+    "coverImage": "/covers/k12-how-do-dinosaurs-say-goodnight.jpg"
+  },
+  {
+    "id": "223",
+    "title": "Bats at the Beach",
+    "author": "Brian Lies",
+    "isbn": "9780544668409",
+    "lexile": "AD550L",
+    "description": "A night out at the beach with a group of bats \u2013 including moon tan lotion and toasting bug-mallows. A very original rhyming story.",
+    "tags": [
+      "Rhyming",
+      "K-12 Reading List"
+    ],
+    "coverImage": "/covers/k12-bats-at-the-beach.jpg"
+  },
+  {
+    "id": "224",
+    "title": "Cloud Tea Monkeys",
+    "author": "Mal Peet",
+    "isbn": "9781406333862",
+    "lexile": "AD650L",
+    "description": "A heartwarming story about a girl whose mother is too ill to work. Set in the foothills of the Himalayas, Tashi is helped by magic monkeys to find the most valuable tea leaves in the land. Based on a Chinese legend. Ideal to read aloud to grade 1 children.",
+    "tags": [
+      "Legend | Picture book",
+      "K-12 Reading List"
+    ],
+    "coverImage": "/covers/k12-cloud-tea-monkeys.jpg"
+  },
+  {
+    "id": "225",
+    "title": "How to Clean a Hippopotamus",
+    "author": "Robin Page",
+    "isbn": "9780547994840",
+    "lexile": "AD740L",
+    "description": "A clever book about how animals help each other. By posing questions such as the story title, the book explores how living things work together in harmony.",
+    "tags": [
+      "Animal story | Narrative non fiction",
+      "K-12 Reading List"
+    ],
+    "coverImage": "/covers/k12-how-to-clean-a-hippopotamus.jpg"
+  },
+  {
+    "id": "226",
+    "title": "The Retired Kid",
+    "author": "Jon Agee",
+    "isbn": "9781423103141",
+    "lexile": "AD480L",
+    "description": "Brian has had enough of school, homework, chores and being told off \u2013 so he decides to retire and live at the Sunset Retirement Community. However, Brian\u2019s new life isn\u2019t quite what he\u2019d imagined.",
+    "tags": [
+      "Humor | Picture book",
+      "K-12 Reading List"
+    ],
+    "coverImage": "/covers/k12-the-retired-kid.jpg"
+  }
+]
