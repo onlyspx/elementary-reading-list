@@ -73,6 +73,7 @@ export default function Home() {
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedFilter, setSelectedFilter] = useState('all');
   const [sortBy, setSortBy] = useState('none'); // 'none' or 'lexile'
+  const [filtersExpanded, setFiltersExpanded] = useState(true);
 
   // Get all unique tags for filter buttons
   const allTags = useMemo(() => {
@@ -151,79 +152,92 @@ export default function Home() {
 
   return (
     <div className="min-h-screen pb-12">
-      {/* Header */}
-      <header className="bg-white/90 backdrop-blur-sm shadow-md sticky top-0 z-50">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
-          <h1 className="text-3xl sm:text-4xl font-bold text-center bg-gradient-to-r from-purple-600 via-pink-600 to-blue-600 bg-clip-text text-transparent mb-2">
+      {/* Header - Compact on Mobile */}
+      <header className="bg-white/95 backdrop-blur-sm shadow-md sticky top-0 z-50">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 sm:py-6">
+          <h1 className="text-2xl sm:text-4xl font-bold text-center bg-gradient-to-r from-purple-600 via-pink-600 to-blue-600 bg-clip-text text-transparent mb-1 sm:mb-2">
             📚 Elementary School Reading List
           </h1>
-          <p className="text-center text-sm text-purple-600 font-semibold mb-3">
+          <p className="text-center text-xs sm:text-sm text-purple-600 font-semibold mb-2 sm:mb-3">
             Currently featuring: First Grade (Ages 6-7)
           </p>
-          <p className="text-center text-gray-600 mb-4 text-sm sm:text-base">
-            Discover amazing books with <span className="font-bold text-green-600">Lexile Levels</span> for young readers!
-          </p>
           
-          {/* Search Bar */}
-          <div className="relative max-w-2xl mx-auto">
-            <div className="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
-              <Search className="h-5 w-5 text-gray-400" />
+          {/* Search Bar - Always Visible */}
+          <div className="relative max-w-2xl mx-auto mb-3">
+            <div className="absolute inset-y-0 left-0 pl-3 sm:pl-4 flex items-center pointer-events-none">
+              <Search className="h-4 w-4 sm:h-5 sm:w-5 text-gray-400" />
             </div>
             <input
               type="text"
-              placeholder="Search by title, author, tag, or Lexile level..."
+              placeholder="Search by title, author, or tag..."
               value={searchQuery}
               onChange={handleSearch}
-              className="w-full pl-12 pr-4 py-3 border-2 border-purple-200 rounded-full focus:outline-none focus:ring-2 focus:ring-purple-400 focus:border-transparent text-lg shadow-sm"
+              className="w-full pl-10 sm:pl-12 pr-4 py-2 sm:py-3 border-2 border-purple-200 rounded-full focus:outline-none focus:ring-2 focus:ring-purple-400 focus:border-transparent text-sm sm:text-lg shadow-sm"
             />
           </div>
           
-          {/* Results count and Sort */}
-          <div className="flex justify-between items-center mt-3 flex-wrap gap-2">
-            <p className="text-sm text-gray-500">
-              {selectedFilter !== 'all' || searchQuery ? (
-                <>Showing {filteredBooks.length} {filteredBooks.length === 1 ? 'book' : 'books'}</>
-              ) : (
-                <>{filteredBooks.length} books in collection</>
-              )}
-            </p>
-            
-            {/* Sort by Lexile */}
-            <div className="flex items-center gap-2">
-              <label className="text-sm text-gray-600 font-medium">Sort:</label>
-              <button
-                onClick={() => setSortBy(sortBy === 'lexile' ? 'none' : 'lexile')}
-                className={`px-3 py-1 rounded-full text-xs font-semibold transition-all ${
-                  sortBy === 'lexile'
-                    ? 'bg-green-500 text-white shadow-md'
-                    : 'bg-white text-gray-700 border border-gray-300 hover:bg-gray-50'
-                }`}
-              >
-                {sortBy === 'lexile' ? '✓ ' : ''}📊 By Lexile Level
-              </button>
-            </div>
+          {/* Filters Toggle Button - Mobile Only */}
+          <div className="sm:hidden mb-2">
+            <button
+              onClick={() => setFiltersExpanded(!filtersExpanded)}
+              className="w-full flex items-center justify-between bg-purple-50 hover:bg-purple-100 text-purple-700 font-semibold py-2 px-4 rounded-lg transition-colors"
+            >
+              <span className="text-sm">
+                {selectedFilter !== 'all' ? `Filter: ${quickFilters.find(f => f.id === selectedFilter)?.label}` : 'Filters & Sort'}
+              </span>
+              <span className="text-lg">{filtersExpanded ? '▲' : '▼'}</span>
+            </button>
           </div>
 
-          {/* Quick Filter Buttons */}
-          <div className="mt-5 flex flex-wrap justify-center gap-2">
-            {quickFilters.map((filter) => (
-              <button
-                key={filter.id}
-                onClick={() => handleFilterClick(filter.id)}
-                className={`px-4 py-2 rounded-full text-sm font-semibold transition-all duration-200 transform hover:scale-105 ${
-                  selectedFilter === filter.id
-                    ? filter.highlight
-                      ? 'bg-gradient-to-r from-blue-600 to-blue-700 text-white shadow-md ring-2 ring-blue-300'
-                      : 'bg-gradient-to-r from-purple-500 to-pink-500 text-white shadow-md'
-                    : filter.highlight
-                    ? 'bg-blue-50 text-blue-700 hover:bg-blue-100 shadow-sm border-2 border-blue-300 font-bold'
-                    : 'bg-white text-gray-700 hover:bg-gray-50 shadow-sm border border-gray-200'
-                }`}
-              >
-                <span className="mr-1">{filter.icon}</span>
-                {filter.label}
-              </button>
-            ))}
+          {/* Expandable Filters Section */}
+          <div className={`${filtersExpanded ? 'block' : 'hidden'} sm:block`}>
+            {/* Results count and Sort */}
+            <div className="flex justify-between items-center mb-3 flex-wrap gap-2">
+              <p className="text-xs sm:text-sm text-gray-500">
+                {selectedFilter !== 'all' || searchQuery ? (
+                  <>Showing {filteredBooks.length} {filteredBooks.length === 1 ? 'book' : 'books'}</>
+                ) : (
+                  <>{filteredBooks.length} books in collection</>
+                )}
+              </p>
+              
+              {/* Sort by Lexile */}
+              <div className="flex items-center gap-2">
+                <label className="text-xs sm:text-sm text-gray-600 font-medium">Sort:</label>
+                <button
+                  onClick={() => setSortBy(sortBy === 'lexile' ? 'none' : 'lexile')}
+                  className={`px-2 sm:px-3 py-1 rounded-full text-xs font-semibold transition-all ${
+                    sortBy === 'lexile'
+                      ? 'bg-green-500 text-white shadow-md'
+                      : 'bg-white text-gray-700 border border-gray-300 hover:bg-gray-50'
+                  }`}
+                >
+                  {sortBy === 'lexile' ? '✓ ' : ''}📊 By Lexile
+                </button>
+              </div>
+            </div>
+
+            {/* Quick Filter Buttons - Scrollable on Mobile */}
+            <div className="mt-3 sm:mt-5 flex flex-nowrap sm:flex-wrap overflow-x-auto sm:overflow-x-visible sm:justify-center gap-2 pb-2 sm:pb-0 -mx-4 px-4 sm:mx-0 sm:px-0">
+              {quickFilters.map((filter) => (
+                <button
+                  key={filter.id}
+                  onClick={() => handleFilterClick(filter.id)}
+                  className={`px-3 sm:px-4 py-2 rounded-full text-xs sm:text-sm font-semibold transition-all duration-200 transform hover:scale-105 whitespace-nowrap flex-shrink-0 ${
+                    selectedFilter === filter.id
+                      ? filter.highlight
+                        ? 'bg-gradient-to-r from-blue-600 to-blue-700 text-white shadow-md ring-2 ring-blue-300'
+                        : 'bg-gradient-to-r from-purple-500 to-pink-500 text-white shadow-md'
+                      : filter.highlight
+                      ? 'bg-blue-50 text-blue-700 hover:bg-blue-100 shadow-sm border-2 border-blue-300 font-bold'
+                      : 'bg-white text-gray-700 hover:bg-gray-50 shadow-sm border border-gray-200'
+                  }`}
+                >
+                  <span className="mr-1">{filter.icon}</span>
+                  {filter.label}
+                </button>
+              ))}
+            </div>
           </div>
         </div>
       </header>
