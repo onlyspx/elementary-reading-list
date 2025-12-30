@@ -6,14 +6,35 @@
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="0">
 </head>
-<body>
-    <h1>Cache Cleared!</h1>
-    <p>All images should now refresh.</p>
+<body style="font-family: system-ui; padding: 40px; max-width: 600px; margin: 0 auto;">
+    <h1>🔄 Cache Cleared!</h1>
+    <p>Your browser cache has been cleared.</p>
+    <p><strong>Next step:</strong></p>
+    <ol>
+        <li>Close this tab</li>
+        <li>Hard refresh the main app:
+            <ul>
+                <li><strong>Mac:</strong> Cmd + Shift + R</li>
+                <li><strong>Windows/Linux:</strong> Ctrl + Shift + R</li>
+                <li><strong>iPhone Safari:</strong> Hold refresh button, tap "Reload Without Content Blockers"</li>
+            </ul>
+        </li>
+    </ol>
+    <a href="/" style="display: inline-block; background: #0070f3; color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px; margin-top: 20px;">Go Back to App</a>
+    
     <script>
-        // Force reload the main page
-        setTimeout(() => {
-            window.location.href = '/';
-        }, 1000);
+        // Clear all cached images
+        if ('caches' in window) {
+            caches.keys().then(names => {
+                names.forEach(name => caches.delete(name));
+            });
+        }
+        
+        // Clear localStorage
+        localStorage.clear();
+        sessionStorage.clear();
+        
+        console.log('✅ Cache cleared');
     </script>
 </body>
 </html>
